@@ -7,3 +7,6 @@ We currently provide part of the code and the output results, and we will provid
 
 # Datasets
 The selected datasets are [MCQ](https://github.com/DRSY/DGen) dataset and [SciQ](https://huggingface.co/datasets/allenai/sciq) dataset
+
+# Models
+Models are available at Hugging Face.
