@@ -1,7 +1,7 @@
 # Contrastive_Learning_in_Encoder_Decoder_Models
 This is the code implementation for the paper:
 **Enhancing Objective Query Distractor Generation in Pre-trained Encoder-Decoder Models via Contrastive Learning**
-The paper is still under review in ACL 2025 submission.
+The paper is still under review.
 
 We currently provide part of the code and the output results, and we will provide the full code implementation upon reviewing decision.
 
