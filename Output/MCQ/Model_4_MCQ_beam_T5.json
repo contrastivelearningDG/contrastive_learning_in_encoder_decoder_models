@@ -1,0 +1,5441 @@
+[
+  {
+    "sentence": "[MASK] is used to describe a chemical released by an animal that affects the behavior or physiology of animals of the same species",
+    "answer": "pheromone",
+    "distractors": [
+      "enzyme",
+      "isolate",
+      "amino"
+    ],
+    "generated_distractors": [
+      "chlorophyll",
+      "phenotype",
+      "protazoa",
+      "narcotic",
+      "chromosome",
+      "chloroplasm",
+      "morphine",
+      "hemoglobin",
+      "chloroplast",
+      "chloroplasts"
+    ]
+  },
+  {
+    "sentence": "Producers at the base of ecological food webs are also known as [MASK]",
+    "answer": "autotrophic",
+    "distractors": [
+      "endoscopic",
+      "symbiotic",
+      "mutualistic"
+    ],
+    "generated_distractors": [
+      "trophic",
+      "monotrophic",
+      "subtropical",
+      "nutrient",
+      "parasitic",
+      "predatory",
+      "abiotic",
+      "predators",
+      "toxic",
+      "terrestrial"
+    ]
+  },
+  {
+    "sentence": "the term for the gas in smog that can damage plants is [MASK]",
+    "answer": "ozone",
+    "distractors": [
+      "dioxide",
+      "carbon",
+      "sulphur"
+    ],
+    "generated_distractors": [
+      "smog",
+      "helium",
+      "ozone",
+      "methane",
+      "carbon",
+      "hydrocarbons",
+      "chloroplast",
+      "nitrogen",
+      "sulfur",
+      "oxygen"
+    ]
+  },
+  {
+    "sentence": "the main organs of the respiratory system are [MASK]",
+    "answer": "lungs",
+    "distractors": [
+      "ovaries",
+      "intestines",
+      "kidneys"
+    ],
+    "generated_distractors": [
+      "kidneys",
+      "liver",
+      "heart",
+      "lungs",
+      "stomach",
+      "brain",
+      "kidney",
+      "arteries",
+      "lung",
+      "bowel"
+    ]
+  },
+  {
+    "sentence": "The products of photosynthesis are glucose and [MASK] else ",
+    "answer": "oxygen",
+    "distractors": [
+      "carbon",
+      "hydrogen",
+      "nitrogen"
+    ],
+    "generated_distractors": [
+      "nitrogen",
+      "carbon",
+      "hydrogen",
+      "oxygen",
+      "calcium",
+      "water",
+      "cellulose",
+      "potassium",
+      "ethanol",
+      "glucose"
+    ]
+  },
+  {
+    "sentence": "[MASK] is responsible for erosion by flowing water and glaciers",
+    "answer": "gravity",
+    "distractors": [
+      "kinetic",
+      "electromagnetic",
+      "weight"
+    ],
+    "generated_distractors": [
+      "friction",
+      "gravity",
+      "magnetic",
+      "electricity",
+      "erosion",
+      "vapor",
+      "heat",
+      "wind",
+      "ice",
+      "chemistry"
+    ]
+  },
+  {
+    "sentence": "[MASK] of rocks form from cooled magma or lava",
+    "answer": "igneous",
+    "distractors": [
+      "granite",
+      "sedimentary",
+      "metamorphic"
+    ],
+    "generated_distractors": [
+      "metamorphic",
+      "igneous",
+      "calcareous",
+      "sedimentary",
+      "amorphous",
+      "evaporation",
+      "evaporative",
+      "volcanic",
+      "basalt",
+      "porous"
+    ]
+  },
+  {
+    "sentence": "Gymnosperms have seeds but do not have [MASK] ",
+    "answer": "flowers",
+    "distractors": [
+      "leaves",
+      "stems",
+      "roots"
+    ],
+    "generated_distractors": [
+      "seeds",
+      "leaves",
+      "stems",
+      "roots",
+      "berries",
+      "fruits",
+      "flowers",
+      "eggs",
+      "buds",
+      "fruit"
+    ]
+  },
+  {
+    "sentence": "Some 96 % of the dry mass consists of organic compounds produced by [MASK] ",
+    "answer": "photosynthesis",
+    "distractors": [
+      "erosion",
+      "electrolysis",
+      "reproduction"
+    ],
+    "generated_distractors": [
+      "oxidation",
+      "respiration",
+      "decomposition",
+      "biosynthesis",
+      "photosynthesis",
+      "synthesis",
+      "metabolism",
+      "hydrolysis",
+      "amplification",
+      "fermentation"
+    ]
+  },
+  {
+    "sentence": "it is called [MASK] when something is unable to move from place to place",
+    "answer": "sessile",
+    "distractors": [
+      "Undrate",
+      "obovate",
+      "ovate"
+    ],
+    "generated_distractors": [
+      "evaporative",
+      "evaporation",
+      "corrosive",
+      "refractory",
+      "abrasion",
+      "rigid",
+      "unable",
+      "flexible",
+      "unstable",
+      "elastic"
+    ]
+  },
+  {
+    "sentence": "the broad range of electromagnetic waves with the longest wavelengths and lowest frequencies are [MASK]",
+    "answer": "radio",
+    "distractors": [
+      "sound",
+      "microwaves",
+      "light"
+    ],
+    "generated_distractors": [
+      "microwaves",
+      "electrons",
+      "electromagnetic",
+      "microwave",
+      "light",
+      "electric",
+      "magnetic",
+      "solar",
+      "reflected",
+      "radio"
+    ]
+  },
+  {
+    "sentence": "Light waves which interfere with themselves after interaction with a small aperture or target are said to [MASK] ",
+    "answer": "diffract",
+    "distractors": [
+      "refract",
+      "adduce",
+      "reflect"
+    ],
+    "generated_distractors": [
+      "disperse",
+      "enlarge",
+      "swell",
+      "reflect",
+      "emit",
+      "displace",
+      "deflect",
+      "scatter",
+      "absorb",
+      "repel"
+    ]
+  },
+  {
+    "sentence": "Distance traveled divided by time yields [MASK] measurement , which is another word used to describe the speed of a chemical reaction ",
+    "answer": "rate",
+    "distractors": [
+      "flow",
+      "displacement",
+      "acceleration"
+    ],
+    "generated_distractors": [
+      "velocity",
+      "temperature",
+      "intensity",
+      "speed",
+      "acceleration",
+      "mass",
+      "volume",
+      "frequency",
+      "weight",
+      "watt"
+    ]
+  },
+  {
+    "sentence": "Common among mammals and insects , pheromones are often related to [MASK] type of behavior ",
+    "answer": "reproductive",
+    "distractors": [
+      "aggressive",
+      "immune",
+      "cardiac"
+    ],
+    "generated_distractors": [
+      "sexual",
+      "prey",
+      "predatory",
+      "reproductive",
+      "social",
+      "behavioural",
+      "behavioral",
+      "invasive",
+      "destructive",
+      "predator"
+    ]
+  },
+  {
+    "sentence": "In recent years , however , researchers have discovered that microsporidia actually have tiny organelles derived from [MASK] ",
+    "answer": "mitochondria",
+    "distractors": [
+      "proteins",
+      "carbohydrates",
+      "plasma"
+    ],
+    "generated_distractors": [
+      "cytoplasm",
+      "lipids",
+      "atoms",
+      "lungs",
+      "stems",
+      "nerves",
+      "organelles",
+      "veins",
+      "arteries",
+      "cells"
+    ]
+  },
+  {
+    "sentence": "the greatest contribution of arthropods to human food supply is [MASK]",
+    "answer": "pollination",
+    "distractors": [
+      "vegetation",
+      "reproduction",
+      "hibernation"
+    ],
+    "generated_distractors": [
+      "pollination",
+      "decomposition",
+      "necrosis",
+      "migration",
+      "germination",
+      "respiration",
+      "reproduction",
+      "extinction",
+      "metabolism",
+      "digestion"
+    ]
+  },
+  {
+    "sentence": "proteins are encoded by [MASK]",
+    "answer": "genes",
+    "distractors": [
+      "DNA",
+      "RNA",
+      "codons"
+    ],
+    "generated_distractors": [
+      "proteins",
+      "RNA",
+      "enzymes",
+      "genes",
+      "hormones",
+      "receptors",
+      "ions",
+      "cells",
+      "neurons",
+      "DNA"
+    ]
+  },
+  {
+    "sentence": "In alcoholic fermentation , [MASK] acid changes to alcohol and carbon dioxide ",
+    "answer": "pyruvic",
+    "distractors": [
+      "rain",
+      "chloride",
+      "lipoic"
+    ],
+    "generated_distractors": [
+      "chlorophyll",
+      "aqueous",
+      "sulphur",
+      "lactic",
+      "evaporation",
+      "saline",
+      "pyrolysis",
+      "acetic",
+      "ethanol",
+      "vapour"
+    ]
+  },
+  {
+    "sentence": "another term for scale worms is [MASK]",
+    "answer": "halkieria",
+    "distractors": [
+      "trichina",
+      "wormidanopis",
+      "spirogyra"
+    ],
+    "generated_distractors": [
+      "echinacea",
+      "symbiotic",
+      "aphids",
+      "geranium",
+      "rhizomes",
+      "rhizome",
+      "worms",
+      "aphid",
+      "germination",
+      "taiga"
+    ]
+  },
+  {
+    "sentence": "[MASK] of device do scientist use to determine wind speed",
+    "answer": "anemometer",
+    "distractors": [
+      "barometer",
+      "photometer",
+      "dynamometer"
+    ],
+    "generated_distractors": [
+      "thermometer",
+      "accelerometer",
+      "compass",
+      "magnetometer",
+      "rotor",
+      "meter",
+      "meteorometer",
+      "astronomer",
+      "astronomy",
+      "radar"
+    ]
+  },
+  {
+    "sentence": "[MASK] looks like a rectangle high in winter 's south-southeastern sky",
+    "answer": "orion",
+    "distractors": [
+      "Caelum",
+      "Apus",
+      "Andromeda"
+    ],
+    "generated_distractors": [
+      "tiger",
+      "frog",
+      "swan",
+      "hawk",
+      "lion",
+      "star",
+      "moon",
+      "butterfly",
+      "meteor",
+      "bird"
+    ]
+  },
+  {
+    "sentence": "[MASK] can reproduce by infecting the cell of a living host",
+    "answer": "virus",
+    "distractors": [
+      "bacteria",
+      "mucus",
+      "carcinogens"
+    ],
+    "generated_distractors": [
+      "bacteria",
+      "parasite",
+      "insect",
+      "worm",
+      "bacterial",
+      "virus",
+      "microbe",
+      "pests",
+      "mosquito",
+      "pest"
+    ]
+  },
+  {
+    "sentence": "solid water that forms when water vapor undergoes deposition is [MASK]",
+    "answer": "frost",
+    "distractors": [
+      "distillate",
+      "glacier",
+      "dew"
+    ],
+    "generated_distractors": [
+      "ice",
+      "precipitation",
+      "condensation",
+      "snow",
+      "vapor",
+      "cloud",
+      "rain",
+      "rust",
+      "sediment",
+      "fog"
+    ]
+  },
+  {
+    "sentence": "the term for the measure of a fluid 's thickness is [MASK]",
+    "answer": "viscosity",
+    "distractors": [
+      "friction",
+      "elasticity",
+      "salinity"
+    ],
+    "generated_distractors": [
+      "permeability",
+      "mass",
+      "density",
+      "temperature",
+      "elasticity",
+      "volume",
+      "thickness",
+      "morphology",
+      "weight",
+      "viscoelasticity"
+    ]
+  },
+  {
+    "sentence": "[MASK] reduces the need for pesticides and other toxic chemicals",
+    "answer": "fungi",
+    "distractors": [
+      "pollen",
+      "helium",
+      "yeast"
+    ],
+    "generated_distractors": [
+      "bacteria",
+      "algae",
+      "insects",
+      "viruses",
+      "bacterial",
+      "worm",
+      "weed",
+      "mold",
+      "toxins",
+      "plants"
+    ]
+  },
+  {
+    "sentence": "Types of neurons include sensory neurons , motor neurons , and [MASK]",
+    "answer": "interneurons",
+    "distractors": [
+      "histones",
+      "anions",
+      "synapses"
+    ],
+    "generated_distractors": [
+      "axons",
+      "chromosomes",
+      "osmosis",
+      "neurotransmitters",
+      "corticals",
+      "synapses",
+      "vacuoles",
+      "reticulum",
+      "synapse",
+      "neuronal"
+    ]
+  },
+  {
+    "sentence": "the term for an infection is caused [MASK] by a fungal parasite",
+    "answer": "mycosis",
+    "distractors": [
+      "mydriasis",
+      "mitosis",
+      "acrobasis"
+    ],
+    "generated_distractors": [
+      "spores",
+      "cholera",
+      "alopecia",
+      "parasites",
+      "bacteremia",
+      "sexis",
+      "sex",
+      "bacterial",
+      "pneumonia",
+      "infection"
+    ]
+  },
+  {
+    "sentence": "Some plants can detect increased levels of [MASK] when reflected from leaves of encroaching neighbors ",
+    "answer": "light",
+    "distractors": [
+      "water",
+      "oxygen",
+      "air"
+    ],
+    "generated_distractors": [
+      "heat",
+      "sound",
+      "temperature",
+      "water",
+      "moisture",
+      "light",
+      "air",
+      "odor",
+      "humidity",
+      "gravity"
+    ]
+  },
+  {
+    "sentence": "the high points of a transverse wave are called [MASK]",
+    "answer": "crests",
+    "distractors": [
+      "peaks",
+      "troughs",
+      "ridges"
+    ],
+    "generated_distractors": [
+      "peaks",
+      "crests",
+      "dips",
+      "ridges",
+      "tails",
+      "waves",
+      "slopes",
+      "ripples",
+      "curves",
+      "spikes"
+    ]
+  },
+  {
+    "sentence": "the transfer of heat by a current is [MASK]",
+    "answer": "convection",
+    "distractors": [
+      "radiation",
+      "combustion",
+      "diffusion"
+    ],
+    "generated_distractors": [
+      "conduction",
+      "magnetism",
+      "diffusion",
+      "radiation",
+      "amplification",
+      "repulsion",
+      "vaporization",
+      "convection",
+      "condensation",
+      "polarization"
+    ]
+  },
+  {
+    "sentence": "the name of film that polyester fibers form is [MASK]",
+    "answer": "mylar",
+    "distractors": [
+      "layers",
+      "fabric",
+      "Softness"
+    ],
+    "generated_distractors": [
+      "cellulose",
+      "polymer",
+      "sand",
+      "silt",
+      "acetate",
+      "fibers",
+      "crystals",
+      "tin",
+      "fibres",
+      "polyester"
+    ]
+  },
+  {
+    "sentence": "Most members of [MASK] kingdom of spore-making organisms grow on the forest floor , where the dark and damp environment is rich ",
+    "answer": "fungi",
+    "distractors": [
+      "algae",
+      "moss",
+      "bacteria"
+    ],
+    "generated_distractors": [
+      "fungi",
+      "microbes",
+      "parasites",
+      "algae",
+      "bacteria",
+      "bacterium",
+      "fungus",
+      "worms",
+      "insects",
+      "spore"
+    ]
+  },
+  {
+    "sentence": "[MASK] of vascular plants produce seeds in cones",
+    "answer": "gymnosperms",
+    "distractors": [
+      "Proteins",
+      "angiosperms",
+      "lipids"
+    ],
+    "generated_distractors": [
+      "spores",
+      "germinations",
+      "sativa",
+      "chlorophyll",
+      "chloroplasts",
+      "sporozoans",
+      "ferns",
+      "germination",
+      "pods",
+      "orchids"
+    ]
+  },
+  {
+    "sentence": "In fruit flies , all homeotic genes are found on one [MASK] ",
+    "answer": "chromosome",
+    "distractors": [
+      "genome",
+      "enzymes",
+      "site"
+    ],
+    "generated_distractors": [
+      "nucleus",
+      "cytoplasm",
+      "atoms",
+      "omelet",
+      "molecule",
+      "RNA",
+      "DNA",
+      "genome",
+      "gene",
+      "mitochondria"
+    ]
+  },
+  {
+    "sentence": "the name for a biologist who studies fungi is [MASK]",
+    "answer": "mycologists",
+    "distractors": [
+      "egyptologists",
+      "musicologists",
+      "oncologists"
+    ],
+    "generated_distractors": [
+      "chemists",
+      "bacteriologists",
+      "microbiologists",
+      "biologists",
+      "fungi",
+      "bacteriologist",
+      "phycologists",
+      "pathologists",
+      "parasitologists",
+      "molecular"
+    ]
+  },
+  {
+    "sentence": "[MASK] different kinds of ions are produced when sodium chloride dissociates",
+    "answer": "two",
+    "distractors": [
+      "five",
+      "one",
+      "three"
+    ],
+    "generated_distractors": [
+      "three",
+      "four",
+      "five",
+      "two",
+      "one",
+      "ten",
+      "six",
+      "seven",
+      "eight",
+      "nine"
+    ]
+  },
+  {
+    "sentence": "[MASK] is made of one silicon atom and two oxygen atoms",
+    "answer": "quartz",
+    "distractors": [
+      "glass",
+      "pumice",
+      "cobalt"
+    ],
+    "generated_distractors": [
+      "sand",
+      "helium",
+      "quartz",
+      "tin",
+      "boron",
+      "tungsten",
+      "calcite",
+      "phosphorus",
+      "carbon",
+      "lava"
+    ]
+  },
+  {
+    "sentence": "cells have [MASK] cycles",
+    "answer": "four",
+    "distractors": [
+      "six",
+      "two",
+      "seven"
+    ],
+    "generated_distractors": [
+      "three",
+      "five",
+      "six",
+      "two",
+      "four",
+      "seven",
+      "ten",
+      "one",
+      "eight",
+      "nine"
+    ]
+  },
+  {
+    "sentence": "lightnings build up [MASK]",
+    "answer": "clouds",
+    "distractors": [
+      "stratosphere",
+      "air",
+      "troposphere"
+    ],
+    "generated_distractors": [
+      "clouds",
+      "ice",
+      "bushes",
+      "rivers",
+      "rocks",
+      "mud",
+      "lava",
+      "rains",
+      "mountains",
+      "snow"
+    ]
+  },
+  {
+    "sentence": "the main source of energy for your body is [MASK]",
+    "answer": "carbohydrates",
+    "distractors": [
+      "proteins",
+      "vitamins",
+      "fats"
+    ],
+    "generated_distractors": [
+      "fats",
+      "proteins",
+      "fat",
+      "sugars",
+      "protein",
+      "carbohydrates",
+      "fatty",
+      "glucose",
+      "calories",
+      "cellulose"
+    ]
+  },
+  {
+    "sentence": "[MASK] of cells make up about one quarter of all white blood cells",
+    "answer": "lymphocytes",
+    "distractors": [
+      "Fat",
+      "erythrocytes",
+      "tumors"
+    ],
+    "generated_distractors": [
+      "lymphocytes",
+      "neutrophils",
+      "cytokines",
+      "lungs",
+      "ovaries",
+      "lymphoid",
+      "lymphoma",
+      "hemoglobin",
+      "tumors",
+      "hemoglobins"
+    ]
+  },
+  {
+    "sentence": "Without the dominant disturbance , the fire-adapted species are usually outcompeted and biodiversity is [MASK] ",
+    "answer": "reduced",
+    "distractors": [
+      "immaterial",
+      "unaffected",
+      "increased"
+    ],
+    "generated_distractors": [
+      "reduced",
+      "lowered",
+      "eliminated",
+      "destroyed",
+      "weakened",
+      "disorganized",
+      "increased",
+      "lost",
+      "deficient",
+      "decreased"
+    ]
+  },
+  {
+    "sentence": "Redox reactions , like other chemical reactions , begin with a product and end with [MASK] ",
+    "answer": "reactant",
+    "distractors": [
+      "plasma",
+      "decomposition",
+      "stimulant"
+    ],
+    "generated_distractors": [
+      "molecule",
+      "catalyst",
+      "reactant",
+      "chemical",
+      "energy",
+      "solvent",
+      "vapor",
+      "reaction",
+      "kinetic",
+      "neutral"
+    ]
+  },
+  {
+    "sentence": "alcohol expand [MASK] over a wide range of temperatures",
+    "answer": "uniformly",
+    "distractors": [
+      "variably",
+      "exponentially",
+      "erratically"
+    ],
+    "generated_distractors": [
+      "uniformly",
+      "irregularly",
+      "radically",
+      "evenly",
+      "wildly",
+      "continuously",
+      "remarkably",
+      "distinctly",
+      "rapidly",
+      "slowly"
+    ]
+  },
+  {
+    "sentence": "the bones in partly movable joints are held in place by [MASK]",
+    "answer": "cartilage",
+    "distractors": [
+      "socket",
+      "tendons",
+      "collagen"
+    ],
+    "generated_distractors": [
+      "ligaments",
+      "tendons",
+      "cartilage",
+      "nerves",
+      "bone",
+      "bones",
+      "collagen",
+      "muscles",
+      "muscle",
+      "skin"
+    ]
+  },
+  {
+    "sentence": "Sepals , petals , stamens , and carpels are [MASK] kind of organs ",
+    "answer": "floral",
+    "distractors": [
+      "animal",
+      "reproductive",
+      "marine"
+    ],
+    "generated_distractors": [
+      "organs",
+      "ovaries",
+      "asymmetric",
+      "sex",
+      "fibrous",
+      "vascular",
+      "erect",
+      "conical",
+      "skeletal",
+      "organ"
+    ]
+  },
+  {
+    "sentence": "the common term for the chemical formula h 2 0 is [MASK]",
+    "answer": "water",
+    "distractors": [
+      "hydrogen",
+      "air",
+      "oxygen"
+    ],
+    "generated_distractors": [
+      "carbon",
+      "oxygen",
+      "gas",
+      "nitrogen",
+      "air",
+      "hydrogen",
+      "vapor",
+      "solids",
+      "ions",
+      "ice"
+    ]
+  },
+  {
+    "sentence": "In moss , [MASK] becomes elongated to elevate the capsule to enhance spore dispersal ",
+    "answer": "seta",
+    "distractors": [
+      "sera",
+      "risa",
+      "porta"
+    ],
+    "generated_distractors": [
+      "elongation",
+      "axon",
+      "spores",
+      "axis",
+      "apex",
+      "elongated",
+      "skeleton",
+      "tassel",
+      "spore",
+      "stamen"
+    ]
+  },
+  {
+    "sentence": "Displacement divided by time is equal to the average [MASK] ",
+    "answer": "velocity",
+    "distractors": [
+      "force",
+      "speed",
+      "acceleration"
+    ],
+    "generated_distractors": [
+      "mass",
+      "velocity",
+      "acceleration",
+      "temperature",
+      "weight",
+      "speed",
+      "density",
+      "distance",
+      "momentum",
+      "kinetic"
+    ]
+  },
+  {
+    "sentence": "The complete hydrolysis of starch yields [MASK] ",
+    "answer": "glucose",
+    "distractors": [
+      "glutamate",
+      "insulin",
+      "sucrose"
+    ],
+    "generated_distractors": [
+      "cellulose",
+      "glucose",
+      "nitrogen",
+      "ethanol",
+      "carbon",
+      "potassium",
+      "calcium",
+      "hydrogen",
+      "sugar",
+      "sodium"
+    ]
+  },
+  {
+    "sentence": "In mammals , four specialized types of [MASK] serve to cut , tear , and grind food ",
+    "answer": "teeth",
+    "distractors": [
+      "scales",
+      "plates",
+      "spines"
+    ],
+    "generated_distractors": [
+      "eyes",
+      "claws",
+      "lungs",
+      "ears",
+      "bones",
+      "muscles",
+      "skin",
+      "teeth",
+      "hair",
+      "mouth"
+    ]
+  },
+  {
+    "sentence": "Like other bryophytes , moss plants spend most of their life cycle as [MASK]",
+    "answer": "gametophytes",
+    "distractors": [
+      "spores",
+      "copepods",
+      "bacteriophages"
+    ],
+    "generated_distractors": [
+      "sporozoans",
+      "chlorophytes",
+      "chloroplasts",
+      "protazoa",
+      "phylums",
+      "fungi",
+      "sporozoa",
+      "parasites",
+      "phytophytes",
+      "protazoans"
+    ]
+  },
+  {
+    "sentence": "The best thermal conductors are also the best conductors of [MASK] , which is also related to the density of free electrons in them ",
+    "answer": "electricity",
+    "distractors": [
+      "light",
+      "pollution",
+      "sound"
+    ],
+    "generated_distractors": [
+      "heat",
+      "energy",
+      "light",
+      "electricity",
+      "power",
+      "mass",
+      "temperature",
+      "sound",
+      "ions",
+      "magnets"
+    ]
+  },
+  {
+    "sentence": "The average human body contains 5,830 g of [MASK] ",
+    "answer": "blood",
+    "distractors": [
+      "muscle",
+      "bacteria",
+      "water"
+    ],
+    "generated_distractors": [
+      "urine",
+      "blood",
+      "saliva",
+      "fat",
+      "lungs",
+      "body fat",
+      "bone",
+      "food",
+      "bones",
+      "liver"
+    ]
+  },
+  {
+    "sentence": "[MASK] of speciation occurs when groups from the same species are geographically isolated for long periods",
+    "answer": "allopatric",
+    "distractors": [
+      "asexual",
+      "symbiotic",
+      "prokaryotic"
+    ],
+    "generated_distractors": [
+      "heterogeneous",
+      "metamorphic",
+      "phenotype",
+      "genus",
+      "polymorphic",
+      "morphological",
+      "phylum",
+      "ecological",
+      "heterogeneity",
+      "hybrid"
+    ]
+  },
+  {
+    "sentence": "[MASK] is defined as the change of water from its liquid phase to its gaseous phase",
+    "answer": "evaporation",
+    "distractors": [
+      "absorption",
+      "condensation",
+      "transpiration"
+    ],
+    "generated_distractors": [
+      "condensation",
+      "precipitation",
+      "transpiration",
+      "vaporation",
+      "vaporization",
+      "decomposition",
+      "absorption",
+      "deposition",
+      "conduction",
+      "sedimentation"
+    ]
+  },
+  {
+    "sentence": "Radiation , chemicals , and infectious agents are types of [MASK] ",
+    "answer": "mutagens",
+    "distractors": [
+      "mutations",
+      "endogenous",
+      "dioxins"
+    ],
+    "generated_distractors": [
+      "parasites",
+      "toxins",
+      "pathogens",
+      "bacterium",
+      "contaminants",
+      "germs",
+      "contaminant",
+      "pests",
+      "fungi",
+      "viruses"
+    ]
+  },
+  {
+    "sentence": "[MASK] of matter transmits light without scattering it",
+    "answer": "transparent",
+    "distractors": [
+      "translucent",
+      "clean",
+      "bioluminescent"
+    ],
+    "generated_distractors": [
+      "transparent",
+      "opaque",
+      "translucent",
+      "luminous",
+      "crystalline",
+      "solid",
+      "liquid",
+      "crystals",
+      "dense",
+      "reflective"
+    ]
+  },
+  {
+    "sentence": "Steam actually consists of tiny droplets of liquid [MASK] ",
+    "answer": "water",
+    "distractors": [
+      "lead",
+      "methane",
+      "mercury"
+    ],
+    "generated_distractors": [
+      "vapor",
+      "air",
+      "ice",
+      "solids",
+      "metals",
+      "gas",
+      "carbon",
+      "oxygen",
+      "gases",
+      "liquids"
+    ]
+  },
+  {
+    "sentence": "[MASK] has the greatest ability to learn",
+    "answer": "humans",
+    "distractors": [
+      "apes",
+      "reptiles",
+      "rats"
+    ],
+    "generated_distractors": [
+      "animals",
+      "mammals",
+      "dinosaurs",
+      "birds",
+      "horses",
+      "mice",
+      "insects",
+      "wolves",
+      "fish",
+      "dogs"
+    ]
+  },
+  {
+    "sentence": "Cells in blood include red blood cells , white blood cells , and [MASK] ",
+    "answer": "platelets",
+    "distractors": [
+      "protons",
+      "droplets",
+      "plasmids"
+    ],
+    "generated_distractors": [
+      "lymphocytes",
+      "neutrophils",
+      "hemoglobin",
+      "neutrons",
+      "lipids",
+      "tumors",
+      "arteries",
+      "cytoplasm",
+      "plasma",
+      "blood"
+    ]
+  },
+  {
+    "sentence": "The egg shell membrane encloses the nucleus containing the genetic material and [MASK] ",
+    "answer": "cytoplasm",
+    "distractors": [
+      "cerebellum",
+      "enamel",
+      "exoskeleton"
+    ],
+    "generated_distractors": [
+      "cytoplasm",
+      "chloroplasm",
+      "nucleus",
+      "mitochondria",
+      "plasmin",
+      "helium",
+      "sperm",
+      "membranes",
+      "embryos",
+      "membrane"
+    ]
+  },
+  {
+    "sentence": "[MASK] mass distinctions have radically altered the history of life",
+    "answer": "five",
+    "distractors": [
+      "six",
+      "one",
+      "four"
+    ],
+    "generated_distractors": [
+      "six",
+      "four",
+      "three",
+      "five",
+      "seven",
+      "two",
+      "nine",
+      "eight",
+      "twenty",
+      "one"
+    ]
+  },
+  {
+    "sentence": "[MASK] determines how strongly an atom attracts electrons to itself",
+    "answer": "electronegativity",
+    "distractors": [
+      "enthalpy",
+      "ionization",
+      "gravity"
+    ],
+    "generated_distractors": [
+      "magnetism",
+      "gravitational",
+      "kinetics",
+      "thermodynamics",
+      "helium",
+      "mass",
+      "density",
+      "ionic",
+      "gravitation",
+      "thermodynamic"
+    ]
+  },
+  {
+    "sentence": "the movement of fluid is out of the capillaries called [MASK]",
+    "answer": "filtration",
+    "distractors": [
+      "diffusion",
+      "absorption",
+      "osmosis"
+    ],
+    "generated_distractors": [
+      "filtration",
+      "absorption",
+      "diffusion",
+      "coagulation",
+      "conduction",
+      "migration",
+      "amplification",
+      "enlargement",
+      "condensation",
+      "compression"
+    ]
+  },
+  {
+    "sentence": "Compared to others , [MASK] type of liquid has a relatively high surface tension and heat capacity ",
+    "answer": "water",
+    "distractors": [
+      "oil",
+      "wine",
+      "blood"
+    ],
+    "generated_distractors": [
+      "ice",
+      "gas",
+      "liquid",
+      "air",
+      "water",
+      "liquids",
+      "solids",
+      "carbon",
+      "vapor",
+      "oxygen"
+    ]
+  },
+  {
+    "sentence": "polyisoprene is better known as [MASK]",
+    "answer": "rubber",
+    "distractors": [
+      "rayon",
+      "styrofoam",
+      "silicon"
+    ],
+    "generated_distractors": [
+      "plastic",
+      "cellulose",
+      "rubber",
+      "nylon",
+      "polyethylene",
+      "metals",
+      "polymer",
+      "metal",
+      "wood",
+      "ethylene"
+    ]
+  },
+  {
+    "sentence": "Every chemical reaction occurs with a concurrent change in [MASK] ",
+    "answer": "energy",
+    "distractors": [
+      "neutrons",
+      "mass",
+      "hydrogen"
+    ],
+    "generated_distractors": [
+      "temperature",
+      "mass",
+      "energy",
+      "weight",
+      "momentum",
+      "heat",
+      "speed",
+      "gravity",
+      "temperatures",
+      "chemistry"
+    ]
+  },
+  {
+    "sentence": "Fatty acids , triglycerides , phospholipids , and steroids are examples of [MASK] ",
+    "answer": "lipids",
+    "distractors": [
+      "tissues",
+      "enzymes",
+      "proteins"
+    ],
+    "generated_distractors": [
+      "carbohydrates",
+      "proteins",
+      "fats",
+      "sugars",
+      "enzymes",
+      "carbs",
+      "hormones",
+      "minerals",
+      "protein",
+      "fatty"
+    ]
+  },
+  {
+    "sentence": "Not surprisingly , centipedes , millipedes and other members of the subphylum myriapoda are adapted to living on [MASK] ",
+    "answer": "land",
+    "distractors": [
+      "water",
+      "sand",
+      "tree"
+    ],
+    "generated_distractors": [
+      "water",
+      "oceans",
+      "sea",
+      "ocean",
+      "soil",
+      "vegetation",
+      "animals",
+      "rocks",
+      "air",
+      "mud"
+    ]
+  },
+  {
+    "sentence": "[MASK] are found in moist forests that break down decaying plant material",
+    "answer": "myriapoda",
+    "distractors": [
+      "trichina",
+      "spirogyra",
+      "organism"
+    ],
+    "generated_distractors": [
+      "aphids",
+      "rhizomes",
+      "symbiotic",
+      "cactus",
+      "ferns",
+      "rhizome",
+      "myrias",
+      "myria",
+      "moths",
+      "fetus"
+    ]
+  },
+  {
+    "sentence": "By breaking down wastes and remains of dead organisms , decomposers perform [MASK] function in an ecosystem ",
+    "answer": "recycling",
+    "distractors": [
+      "reproduction",
+      "symbiosis",
+      "collecting"
+    ],
+    "generated_distractors": [
+      "pollination",
+      "decomposition",
+      "dispersing",
+      "preserving",
+      "storing",
+      "pollinating",
+      "regenerating",
+      "absorption",
+      "pollen",
+      "regenerative"
+    ]
+  },
+  {
+    "sentence": "sugars are broken down into in your digestive system [MASK]",
+    "answer": "glucose",
+    "distractors": [
+      "starch",
+      "insulin",
+      "nicotine"
+    ],
+    "generated_distractors": [
+      "glucose",
+      "fat",
+      "cellulose",
+      "ethanol",
+      "potassium",
+      "sugars",
+      "sugar",
+      "calcium",
+      "fats",
+      "protein"
+    ]
+  },
+  {
+    "sentence": "the plasma membrane is mainly composed of [MASK]",
+    "answer": "phospholipids",
+    "distractors": [
+      "filaments",
+      "antibodies",
+      "carbon"
+    ],
+    "generated_distractors": [
+      "lipids",
+      "glycoproteins",
+      "proteins",
+      "enzymes",
+      "chloroplasm",
+      "fats",
+      "carbohydrates",
+      "phosphorus",
+      "fatty acids",
+      "celluloses"
+    ]
+  },
+  {
+    "sentence": "The sun , stars , moon , planets and comets are all type of [MASK] objects ",
+    "answer": "celestrial",
+    "distractors": [
+      "extraterrestrial",
+      "universal",
+      "spacial"
+    ],
+    "generated_distractors": [
+      "planetary",
+      "terrestrial",
+      "orbital",
+      "geosynchronous",
+      "interplanetary",
+      "planets",
+      "meteorological",
+      "meteor",
+      "solar",
+      "earth"
+    ]
+  },
+  {
+    "sentence": "Solution nodes and antinodes are both areas of wave interference , but they differ in the presence of [MASK] condition ",
+    "answer": "motion",
+    "distractors": [
+      "radiation",
+      "gravity",
+      "speed"
+    ],
+    "generated_distractors": [
+      "temperature",
+      "vibration",
+      "gravity",
+      "sound",
+      "kinetic",
+      "noise",
+      "physics",
+      "motion",
+      "acceleration",
+      "symmetry"
+    ]
+  },
+  {
+    "sentence": "While similar to insects , [MASK] eight-legged invertebrates lack antennae or wings ",
+    "answer": "arachnids",
+    "distractors": [
+      "spiders",
+      "reptiles",
+      "crustaceans"
+    ],
+    "generated_distractors": [
+      "worms",
+      "reptiles",
+      "rodents",
+      "crustaceans",
+      "fungi",
+      "parasites",
+      "spiders",
+      "larvae",
+      "snakes",
+      "fungus"
+    ]
+  },
+  {
+    "sentence": "[MASK] allows the exchange of gases , nutrients , and other substances between the fetus and mother",
+    "answer": "placenta",
+    "distractors": [
+      "uterus",
+      "mitochondria",
+      "notochord"
+    ],
+    "generated_distractors": [
+      "uterus",
+      "sperm",
+      "axon",
+      "genitals",
+      "ovaries",
+      "embryo",
+      "ovary",
+      "egg",
+      "caesar",
+      "embryos"
+    ]
+  },
+  {
+    "sentence": "Unlike free-living species of flatworms that are predators or scavengers , [MASK] forms feed from the tissues of their hosts ",
+    "answer": "parasitic",
+    "distractors": [
+      "aquatic",
+      "mutualistic",
+      "herbiverous"
+    ],
+    "generated_distractors": [
+      "parasitic",
+      "nocturnal",
+      "aphid",
+      "predatory",
+      "spores",
+      "sporozoic",
+      "sporadic",
+      "invasive",
+      "insectic",
+      "toxic"
+    ]
+  },
+  {
+    "sentence": "When heat flows into an object , its thermal energy increases and so does its [MASK] ",
+    "answer": "temperature",
+    "distractors": [
+      "matter",
+      "speed",
+      "color"
+    ],
+    "generated_distractors": [
+      "mass",
+      "weight",
+      "size",
+      "density",
+      "volume",
+      "temperature",
+      "energy",
+      "velocity",
+      "elasticity",
+      "humidity"
+    ]
+  },
+  {
+    "sentence": "The science of analyzing tree rings is called [MASK] ",
+    "answer": "dendrochronology",
+    "distractors": [
+      "algorithms",
+      "conservation",
+      "estradiol"
+    ],
+    "generated_distractors": [
+      "morphology",
+      "chromosomes",
+      "metamorphosis",
+      "phenomenology",
+      "phylogeny",
+      "phenotypology",
+      "phenotypy",
+      "chromology",
+      "phenotyping",
+      "phenomorphology"
+    ]
+  },
+  {
+    "sentence": "[MASK] of arthritis causes the immune system to attack joints",
+    "answer": "rheumatoid",
+    "distractors": [
+      "Osteoarthritis",
+      "Gout",
+      "Spondylarthropathies"
+    ],
+    "generated_distractors": [
+      "hepatitis",
+      "eczema",
+      "osteoarthritis",
+      "fibrosis",
+      "esophageal",
+      "spleen",
+      "esophagitis",
+      "lymphoid",
+      "rheumatism",
+      "autoimmune"
+    ]
+  },
+  {
+    "sentence": "[MASK] is achieved when the body 's internal environment is kept more-or-less constant",
+    "answer": "homeostasis",
+    "distractors": [
+      "cancerous",
+      "hypothesis",
+      "consciousness"
+    ],
+    "generated_distractors": [
+      "arousal",
+      "homogeneity",
+      "endocrine",
+      "sanity",
+      "physiology",
+      "enzymatic",
+      "equilibrium",
+      "normalization",
+      "optimality",
+      "relaxation"
+    ]
+  },
+  {
+    "sentence": "Kinetic and potential are two forms of [MASK] ",
+    "answer": "energy",
+    "distractors": [
+      "pressure",
+      "fuel",
+      "exercise"
+    ],
+    "generated_distractors": [
+      "kinetic",
+      "energy",
+      "momentum",
+      "sound",
+      "heat",
+      "gravity",
+      "pressure",
+      "mass",
+      "friction",
+      "electricity"
+    ]
+  },
+  {
+    "sentence": "aquatic arthropods use [MASK] to exchange gases",
+    "answer": "gills",
+    "distractors": [
+      "lungs",
+      "pores",
+      "diaphragm"
+    ],
+    "generated_distractors": [
+      "lungs",
+      "tails",
+      "mouth",
+      "skin",
+      "mouths",
+      "stomach",
+      "eyes",
+      "ears",
+      "teeth",
+      "liver"
+    ]
+  },
+  {
+    "sentence": "there are [MASK] types of galaxies",
+    "answer": "three",
+    "distractors": [
+      "one",
+      "five",
+      "two"
+    ],
+    "generated_distractors": [
+      "four",
+      "two",
+      "five",
+      "six",
+      "three",
+      "ten",
+      "seven",
+      "one",
+      "nine",
+      "eight"
+    ]
+  },
+  {
+    "sentence": "Skin color is controlled by genes but also influenced by exposure to [MASK] ",
+    "answer": "sunlight",
+    "distractors": [
+      "food",
+      "precipitation",
+      "makeup"
+    ],
+    "generated_distractors": [
+      "heat",
+      "air",
+      "water",
+      "electricity",
+      "wind",
+      "sound",
+      "food",
+      "noise",
+      "temperature",
+      "toxins"
+    ]
+  },
+  {
+    "sentence": "Higher temperatures increase the rate of reaction in a lot of chemical reactions because they increase the frequency of [MASK] interaction between reactant particles ",
+    "answer": "collisions",
+    "distractors": [
+      "electric",
+      "explosions",
+      "waves"
+    ],
+    "generated_distractors": [
+      "vibrations",
+      "oscillations",
+      "ions",
+      "vapors",
+      "collisions",
+      "frictions",
+      "shocks",
+      "fusions",
+      "radiations",
+      "variations"
+    ]
+  },
+  {
+    "sentence": "Knees and elbows are examples of [MASK] part of the skeletal system ",
+    "answer": "joints",
+    "distractors": [
+      "cartilage",
+      "muscles",
+      "nerves"
+    ],
+    "generated_distractors": [
+      "muscles",
+      "lungs",
+      "bones",
+      "veins",
+      "nerves",
+      "ligaments",
+      "arteries",
+      "tendons",
+      "skeletal",
+      "joints"
+    ]
+  },
+  {
+    "sentence": "The process in which the nucleus divides is called [MASK] ",
+    "answer": "mitosis",
+    "distractors": [
+      "meiosis",
+      "epistasis",
+      "cytokinesis"
+    ],
+    "generated_distractors": [
+      "cytokinesis",
+      "osmosis",
+      "chromosomes",
+      "fibrosis",
+      "mitosis",
+      "enzymatics",
+      "decomposition",
+      "eugenics",
+      "enzymatic",
+      "eutrophy"
+    ]
+  },
+  {
+    "sentence": "ants use [MASK] of the body to detect chemicals",
+    "answer": "antennae",
+    "distractors": [
+      "thorax",
+      "fins",
+      "eyes"
+    ],
+    "generated_distractors": [
+      "lungs",
+      "tails",
+      "eyes",
+      "brain",
+      "skin",
+      "muscles",
+      "tail",
+      "body",
+      "stomach",
+      "bones"
+    ]
+  },
+  {
+    "sentence": "Water has the properties of cohesion and [MASK] ",
+    "answer": "adhesion",
+    "distractors": [
+      "absorption",
+      "degradation",
+      "diffusion"
+    ],
+    "generated_distractors": [
+      "diffusion",
+      "elasticity",
+      "filtration",
+      "condensation",
+      "friction",
+      "compression",
+      "expansion",
+      "vapor",
+      "separation",
+      "corrosion"
+    ]
+  },
+  {
+    "sentence": "Fitness and natural selection are parts of [MASK] theory that might describe how organisms change over time ",
+    "answer": "evolution",
+    "distractors": [
+      "dessication",
+      "gravity",
+      "implementation"
+    ],
+    "generated_distractors": [
+      "evolution",
+      "extinction",
+      "genetics",
+      "biochemistry",
+      "biochemical",
+      "differentiation",
+      "biome",
+      "survival",
+      "evolutionary",
+      "reproduction"
+    ]
+  },
+  {
+    "sentence": "a common age-related bone disease in which bone density and strength is decreased is [MASK]",
+    "answer": "osteoporosis",
+    "distractors": [
+      "fibrosis",
+      "lupus",
+      "arthritis"
+    ],
+    "generated_distractors": [
+      "osteoporosis",
+      "osteoarthritis",
+      "osteopenia",
+      "fibrosis",
+      "alopecia",
+      "hepatitis",
+      "osteoclasts",
+      "osteochondrion",
+      "osteochondritis",
+      "malnutrition"
+    ]
+  },
+  {
+    "sentence": "Osteoclasts break down bone to maintain mineral [MASK] ",
+    "answer": "homeostatis",
+    "distractors": [
+      "density",
+      "fluctuations",
+      "polarity"
+    ],
+    "generated_distractors": [
+      "osteoporosis",
+      "chromosomes",
+      "osmosis",
+      "osteocytes",
+      "chondrion",
+      "axons",
+      "fibrosis",
+      "alopecia",
+      "skeletal",
+      "sex"
+    ]
+  },
+  {
+    "sentence": "[MASK] carbohydrates can be classified in terms of chain length ",
+    "answer": "simple",
+    "distractors": [
+      "binary",
+      "atomic",
+      "complex"
+    ],
+    "generated_distractors": [
+      "complex",
+      "fatty",
+      "soluble",
+      "acidic",
+      "simple",
+      "dense",
+      "long",
+      "solid",
+      "liquid",
+      "crystalline"
+    ]
+  },
+  {
+    "sentence": "The oxygen regions of the water molecules have [MASK] kind of charge ",
+    "answer": "negative",
+    "distractors": [
+      "positive",
+      "neutral",
+      "certain"
+    ],
+    "generated_distractors": [
+      "positive",
+      "negative",
+      "neutral",
+      "polar",
+      "alternating",
+      "strong",
+      "inverse",
+      "magnetic",
+      "high",
+      "stable"
+    ]
+  },
+  {
+    "sentence": "Aldehydes , ketones , carboxylic acids , esters , and ethers all have functional groups containing [MASK] element ",
+    "answer": "oxygen",
+    "distractors": [
+      "silicon",
+      "methane",
+      "carbon"
+    ],
+    "generated_distractors": [
+      "nitrogen",
+      "hydrogen",
+      "carbon",
+      "calcium",
+      "chloride",
+      "oxygen",
+      "sulfur",
+      "potassium",
+      "water",
+      "ions"
+    ]
+  },
+  {
+    "sentence": "What forms [MASK] an atom gains electrons ",
+    "answer": "anions",
+    "distractors": [
+      "cations",
+      "bonds",
+      "crystals"
+    ],
+    "generated_distractors": [
+      "ions",
+      "molecules",
+      "protons",
+      "electrons",
+      "particles",
+      "hydrogen",
+      "carbons",
+      "compounds",
+      "carbonates",
+      "hydrogens"
+    ]
+  },
+  {
+    "sentence": "[MASK] is typically used to shield things from gamma rays",
+    "answer": "lead",
+    "distractors": [
+      "gold",
+      "silver",
+      "aluminum"
+    ],
+    "generated_distractors": [
+      "glass",
+      "carbon",
+      "mercury",
+      "copper",
+      "aluminum",
+      "cellulose",
+      "metal",
+      "magnets",
+      "metals",
+      "iron"
+    ]
+  },
+  {
+    "sentence": "the combination of tissues that provides a tough , woody external covering on the stems of trees called is [MASK]",
+    "answer": "bark",
+    "distractors": [
+      "cuticle",
+      "scale",
+      "epidermis"
+    ],
+    "generated_distractors": [
+      "leaves",
+      "bark",
+      "stems",
+      "roots",
+      "stem",
+      "leaf",
+      "branches",
+      "foliage",
+      "fruit",
+      "wood"
+    ]
+  },
+  {
+    "sentence": "another term for hydraulic fracturing is [MASK]",
+    "answer": "fracking",
+    "distractors": [
+      "erupting",
+      "permeating",
+      "drilling"
+    ],
+    "generated_distractors": [
+      "fracking",
+      "drilling",
+      "fracting",
+      "decomposition",
+      "tumbling",
+      "sand",
+      "deposition",
+      "fractures",
+      "excavation",
+      "compression"
+    ]
+  },
+  {
+    "sentence": "[MASK] means opposition to the flow of electric charges that occurs when electric current travels through matter",
+    "answer": "resistance",
+    "distractors": [
+      "polarity",
+      "antagonism",
+      "diffusion"
+    ],
+    "generated_distractors": [
+      "traction",
+      "resistance",
+      "friction",
+      "momentum",
+      "acceleration",
+      "elasticity",
+      "vibration",
+      "velocity",
+      "compression",
+      "voltage"
+    ]
+  },
+  {
+    "sentence": "[MASK] affects the onset of puberty and duration",
+    "answer": "hormones",
+    "distractors": [
+      "steroids",
+      "enzymes",
+      "acids"
+    ],
+    "generated_distractors": [
+      "hormones",
+      "estrogens",
+      "estrogen",
+      "genetics",
+      "genes",
+      "toxins",
+      "stress",
+      "chemicals",
+      "metabolism",
+      "insulin"
+    ]
+  },
+  {
+    "sentence": "A mutation is a random change in an organism 's [MASK] ",
+    "answer": "genes",
+    "distractors": [
+      "power",
+      "structure",
+      "babies"
+    ],
+    "generated_distractors": [
+      "hormones",
+      "genes",
+      "proteins",
+      "enzymes",
+      "cells",
+      "organs",
+      "cellular",
+      "tissues",
+      "toxins",
+      "genomes"
+    ]
+  },
+  {
+    "sentence": "Synovial and ball-and-socket are both types of [MASK] ",
+    "answer": "joints",
+    "distractors": [
+      "bonds",
+      "cells",
+      "muscles"
+    ],
+    "generated_distractors": [
+      "tendons",
+      "muscles",
+      "ligaments",
+      "bones",
+      "nerves",
+      "joints",
+      "spines",
+      "arteries",
+      "teeth",
+      "muscle"
+    ]
+  },
+  {
+    "sentence": "Most liquid freshwater is under the ground in layers of [MASK] ",
+    "answer": "rock",
+    "distractors": [
+      "forest",
+      "sand",
+      "soil"
+    ],
+    "generated_distractors": [
+      "soil",
+      "sediments",
+      "rock",
+      "mud",
+      "lava",
+      "clay",
+      "ice",
+      "gravel",
+      "sediment",
+      "earth"
+    ]
+  },
+  {
+    "sentence": "gain-of-function mutations usually result in [MASK]",
+    "answer": "dominant",
+    "distractors": [
+      "submissive",
+      "internal",
+      "external"
+    ],
+    "generated_distractors": [
+      "dominant",
+      "mutated",
+      "atypical",
+      "mutating",
+      "mutable",
+      "mutational",
+      "inherited",
+      "mutations",
+      "abnormal",
+      "negative"
+    ]
+  },
+  {
+    "sentence": "the key to species evolving are [MASK]",
+    "answer": "mutations",
+    "distractors": [
+      "microbes",
+      "parasites",
+      "radiation"
+    ],
+    "generated_distractors": [
+      "mutations",
+      "extinctions",
+      "migrations",
+      "germination",
+      "genetics",
+      "adaptations",
+      "changes",
+      "morphology",
+      "reproductions",
+      "morphological"
+    ]
+  },
+  {
+    "sentence": "[MASK] raise the hyoid bone , the floor of the mouth , and the larynx during deglutition",
+    "answer": "suprahyoid",
+    "distractors": [
+      "spicule",
+      "spirogyra",
+      "Hybrid"
+    ],
+    "generated_distractors": [
+      "occipital",
+      "axons",
+      "hypothalamus",
+      "peritoneal",
+      "axon",
+      "spleen",
+      "pericardial",
+      "ventricle",
+      "lateral",
+      "suprahyoide"
+    ]
+  },
+  {
+    "sentence": "[MASK] of energy is stored in an object because of its position or shape",
+    "answer": "potential",
+    "distractors": [
+      "magnetic",
+      "mechanical",
+      "kinetic"
+    ],
+    "generated_distractors": [
+      "kinetic",
+      "momentum",
+      "energy",
+      "current",
+      "temperature",
+      "mass",
+      "watt",
+      "density",
+      "velocity",
+      "heat"
+    ]
+  },
+  {
+    "sentence": "multicellular what are [MASK]",
+    "answer": "eukaryotes",
+    "distractors": [
+      "isolates",
+      "prokaryotes",
+      "membranes"
+    ],
+    "generated_distractors": [
+      "protazoa",
+      "protists",
+      "protazoans",
+      "protozoa",
+      "microbes",
+      "sporozoans",
+      "worms",
+      "reptiles",
+      "fungi",
+      "bacterium"
+    ]
+  },
+  {
+    "sentence": "ocean mollusks use [MASK] to absorb oxygen from the water",
+    "answer": "gills",
+    "distractors": [
+      "shells",
+      "scales",
+      "pores"
+    ],
+    "generated_distractors": [
+      "tails",
+      "lungs",
+      "eyes",
+      "ears",
+      "mouth",
+      "mouths",
+      "skin",
+      "teeth",
+      "nose",
+      "stomach"
+    ]
+  },
+  {
+    "sentence": "[MASK] increases a slide downhill and decreases a slide uphill",
+    "answer": "gravity",
+    "distractors": [
+      "nuclear",
+      "frictional",
+      "tension"
+    ],
+    "generated_distractors": [
+      "friction",
+      "gravity",
+      "traction",
+      "electricity",
+      "magnetic",
+      "speed",
+      "momentum",
+      "vibration",
+      "force",
+      "elasticity"
+    ]
+  },
+  {
+    "sentence": "fully terrestrial vertebrates carry [MASK] of eggs",
+    "answer": "amniotic",
+    "distractors": [
+      "epithelial",
+      "amphibious",
+      "aqueous"
+    ],
+    "generated_distractors": [
+      "osmosis",
+      "symbiotic",
+      "protozoa",
+      "aphids",
+      "aquifers",
+      "eukaryotic",
+      "aphid",
+      "arachnoid",
+      "genus",
+      "aquifer"
+    ]
+  },
+  {
+    "sentence": "[MASK] of weathering causes the minerals in a rock to change",
+    "answer": "chemical",
+    "distractors": [
+      "toxic",
+      "natural",
+      "artificial"
+    ],
+    "generated_distractors": [
+      "mechanical",
+      "physical",
+      "magnetic",
+      "electrical",
+      "chemical",
+      "electromagnetic",
+      "thermal",
+      "biological",
+      "kinetic",
+      "heat"
+    ]
+  },
+  {
+    "sentence": "What is the process in [MASK] a liquid changes to a solid ",
+    "answer": "freezing",
+    "distractors": [
+      "condensation",
+      "boiling",
+      "melting"
+    ],
+    "generated_distractors": [
+      "vaporization",
+      "vaporizing",
+      "decomposition",
+      "precipitation",
+      "condensation",
+      "absorption",
+      "deposition",
+      "conduction",
+      "melting",
+      "freezing"
+    ]
+  },
+  {
+    "sentence": "By pulling out grass by its roots and over-grazing , livestock contribute to [MASK] negative process ",
+    "answer": "erosion",
+    "distractors": [
+      "migration",
+      "evolution",
+      "immigration"
+    ],
+    "generated_distractors": [
+      "germination",
+      "decomposition",
+      "pollenation",
+      "precipitation",
+      "smog",
+      "fertilization",
+      "erosion",
+      "deposition",
+      "repression",
+      "regrowth"
+    ]
+  },
+  {
+    "sentence": "The chloroplasts contain a green pigment called [MASK] ",
+    "answer": "chlorophyll",
+    "distractors": [
+      "chloroplasm",
+      "sodium",
+      "melanin"
+    ],
+    "generated_distractors": [
+      "chlorophyll",
+      "chloroplasts",
+      "chloroplast",
+      "chloroplasm",
+      "protazoa",
+      "chromosome",
+      "chromium",
+      "cytoplasm",
+      "chloride",
+      "pigment"
+    ]
+  },
+  {
+    "sentence": "[MASK] occurs when the amount of solute dissolved exceeds the solubility",
+    "answer": "supersaturation",
+    "distractors": [
+      "polymerisation",
+      "density",
+      "alkalinity"
+    ],
+    "generated_distractors": [
+      "oxidation",
+      "decomposition",
+      "vaporization",
+      "condensation",
+      "deposition",
+      "precipitation",
+      "amplification",
+      "conduction",
+      "dissolution",
+      "vaporation"
+    ]
+  },
+  {
+    "sentence": "Centrioles are a very important part of [MASK] ",
+    "answer": "centrosomes",
+    "distractors": [
+      "centricles",
+      "tubercles",
+      "enterocytes"
+    ],
+    "generated_distractors": [
+      "chromosomes",
+      "ribosomes",
+      "cytoskeletons",
+      "axons",
+      "plasmids",
+      "protozoa",
+      "cytoplasms",
+      "plasmosomes",
+      "protazoa",
+      "cytoplasm"
+    ]
+  },
+  {
+    "sentence": "the volume of the molecules of an ideal gas is [MASK]",
+    "answer": "zero",
+    "distractors": [
+      "three",
+      "two",
+      "one"
+    ],
+    "generated_distractors": [
+      "zero",
+      "0",
+      "minus",
+      "ten",
+      "one",
+      "-1",
+      "zero.",
+      "a",
+      "0.5",
+      "two"
+    ]
+  },
+  {
+    "sentence": "eggs are formed in [MASK] of the body",
+    "answer": "ovaries",
+    "distractors": [
+      "brain",
+      "intestine",
+      "pancreas"
+    ],
+    "generated_distractors": [
+      "uterus",
+      "ovaries",
+      "sperm",
+      "glands",
+      "lungs",
+      "menstrual",
+      "menstruation",
+      "breasts",
+      "stomach",
+      "kidneys"
+    ]
+  },
+  {
+    "sentence": "Combining the voltages of the oxidation and reduction half reactions helps to determine [MASK] ",
+    "answer": "voltage",
+    "distractors": [
+      "slimy",
+      "moisture",
+      "magnetic"
+    ],
+    "generated_distractors": [
+      "temperature",
+      "mass",
+      "speed",
+      "frequency",
+      "velocity",
+      "phase",
+      "energy",
+      "volume",
+      "watt",
+      "intensity"
+    ]
+  },
+  {
+    "sentence": "When energy is captured or transformed , it inevitably degrades and becomes [MASK] less useful form of energy ",
+    "answer": "heat",
+    "distractors": [
+      "chemical",
+      "temperature",
+      "motion"
+    ],
+    "generated_distractors": [
+      "electricity",
+      "light",
+      "heat",
+      "vapor",
+      "energy",
+      "power",
+      "sound",
+      "carbon",
+      "electrical",
+      "water"
+    ]
+  },
+  {
+    "sentence": "[MASK] organs filter wastes from blood so they can be excreted from the body ",
+    "answer": "kidneys",
+    "distractors": [
+      "lungs",
+      "pancreas",
+      "liver"
+    ],
+    "generated_distractors": [
+      "liver",
+      "lungs",
+      "kidneys",
+      "heart",
+      "stomach",
+      "veins",
+      "brain",
+      "kidney",
+      "arteries",
+      "thyroid"
+    ]
+  },
+  {
+    "sentence": "female gonads are normally called [MASK]",
+    "answer": "ovaries",
+    "distractors": [
+      "testes",
+      "tubules",
+      "glands"
+    ],
+    "generated_distractors": [
+      "uterus",
+      "ovaries",
+      "sperm",
+      "ovary",
+      "menstrual",
+      "menstruation",
+      "glands",
+      "embryos",
+      "breasts",
+      "menstruations"
+    ]
+  },
+  {
+    "sentence": "Lipids are biochemical compounds such as fats and [MASK]",
+    "answer": "oils",
+    "distractors": [
+      "vegetables",
+      "salts",
+      "minerals"
+    ],
+    "generated_distractors": [
+      "proteins",
+      "carbohydrates",
+      "sugars",
+      "fats",
+      "minerals",
+      "ions",
+      "protein",
+      "seeds",
+      "oils",
+      "toxins"
+    ]
+  },
+  {
+    "sentence": "the process of small molecules is passing [MASK] through the plasma membrane called",
+    "answer": "diffusion",
+    "distractors": [
+      "permeation",
+      "absorption",
+      "convection"
+    ],
+    "generated_distractors": [
+      "absorption",
+      "vaporization",
+      "amplification",
+      "repulsion",
+      "condensation",
+      "conduction",
+      "retraction",
+      "resorption",
+      "deposition",
+      "filtration"
+    ]
+  },
+  {
+    "sentence": "a sheet of muscle that spreads across the bottom of the rib cage is [MASK]",
+    "answer": "diaphragm",
+    "distractors": [
+      "cartilage",
+      "thorax",
+      "diagram"
+    ],
+    "generated_distractors": [
+      "clavicle",
+      "spleen",
+      "ribs",
+      "pancreas",
+      "thoracic",
+      "axon",
+      "ventricle",
+      "skeleton",
+      "thigh",
+      "stomach"
+    ]
+  },
+  {
+    "sentence": "the term for environmental causes of mutations is [MASK]",
+    "answer": "mutagens",
+    "distractors": [
+      "pollutants",
+      "catalysts",
+      "carcinogens"
+    ],
+    "generated_distractors": [
+      "parasites",
+      "pathogens",
+      "toxins",
+      "bacterium",
+      "germs",
+      "mutations",
+      "mutators",
+      "viruses",
+      "genes",
+      "agents"
+    ]
+  },
+  {
+    "sentence": "frogs have [MASK] eyelid membranes",
+    "answer": "three",
+    "distractors": [
+      "two",
+      "four",
+      "one"
+    ],
+    "generated_distractors": [
+      "four",
+      "two",
+      "five",
+      "six",
+      "three",
+      "ten",
+      "seven",
+      "one",
+      "eight",
+      "nine"
+    ]
+  },
+  {
+    "sentence": "another word for saturated hydrocarbons is [MASK]",
+    "answer": "alkanes",
+    "distractors": [
+      "catalysts",
+      "enzymes",
+      "aldehydes"
+    ],
+    "generated_distractors": [
+      "ions",
+      "hydrocarbons",
+      "atoms",
+      "ketones",
+      "hydrogens",
+      "anion",
+      "carbonates",
+      "chlorides",
+      "acids",
+      "hydrogen"
+    ]
+  },
+  {
+    "sentence": "[MASK] is derived from hydrocarbons and used in ropes , tents and parachutes",
+    "answer": "nylon",
+    "distractors": [
+      "styrofoam",
+      "cellophane",
+      "aluminum"
+    ],
+    "generated_distractors": [
+      "cellulose",
+      "plastic",
+      "rubber",
+      "polyester",
+      "wood",
+      "metals",
+      "aluminum",
+      "steel",
+      "nylon",
+      "fiberglass"
+    ]
+  },
+  {
+    "sentence": "[MASK] are considered solid lipids that animals use to store energy",
+    "answer": "fats",
+    "distractors": [
+      "acids",
+      "sugars",
+      "proteins"
+    ],
+    "generated_distractors": [
+      "carbohydrates",
+      "proteins",
+      "sugars",
+      "carbs",
+      "protein",
+      "minerals",
+      "cellulose",
+      "ions",
+      "grains",
+      "fatty"
+    ]
+  },
+  {
+    "sentence": "The small , egg-shaped organs that lie on either side of the uterus are called [MASK]",
+    "answer": "ovaries",
+    "distractors": [
+      "lungs",
+      "glands",
+      "kidneys"
+    ],
+    "generated_distractors": [
+      "uterus",
+      "ovaries",
+      "menstrual",
+      "ribs",
+      "menstruation",
+      "breasts",
+      "lungs",
+      "glands",
+      "kidneys",
+      "stomach"
+    ]
+  },
+  {
+    "sentence": "[MASK] leads to one species going extinct or both becoming more specialized",
+    "answer": "interspecific",
+    "distractors": [
+      "intraspecific",
+      "beneficial",
+      "mimicry"
+    ],
+    "generated_distractors": [
+      "extinct",
+      "multispecies",
+      "nonspecific",
+      "species-specific",
+      "hybrid",
+      "multispecific",
+      "monospecific",
+      "omnispecific",
+      "hyperspecific",
+      "extinction"
+    ]
+  },
+  {
+    "sentence": "every star emit [MASK] that humans can not see",
+    "answer": "radiation",
+    "distractors": [
+      "sound",
+      "light",
+      "dust"
+    ],
+    "generated_distractors": [
+      "light",
+      "heat",
+      "electricity",
+      "vapor",
+      "ions",
+      "magnetic",
+      "gravity",
+      "gas",
+      "radiation",
+      "sound"
+    ]
+  },
+  {
+    "sentence": "[MASK] is used to chemically and mechanically break down the food you eat into smaller parts",
+    "answer": "digestion",
+    "distractors": [
+      "absorption",
+      "regression",
+      "filtration"
+    ],
+    "generated_distractors": [
+      "respiration",
+      "metabolism",
+      "digestion",
+      "absorption",
+      "excretion",
+      "physiology",
+      "excretory",
+      "resorption",
+      "synthesis",
+      "reproduction"
+    ]
+  },
+  {
+    "sentence": "Having extra chromosomes or damaged chromosomes can cause [MASK] ",
+    "answer": "disorders",
+    "distractors": [
+      "deformities",
+      "problems",
+      "diseases"
+    ],
+    "generated_distractors": [
+      "infections",
+      "mutations",
+      "cancers",
+      "abnormalities",
+      "tumors",
+      "diseases",
+      "maladies",
+      "disorders",
+      "accidents",
+      "disease"
+    ]
+  },
+  {
+    "sentence": "it is called [MASK] when two waves in the same medium pass one another",
+    "answer": "interference",
+    "distractors": [
+      "accumulation",
+      "frequency",
+      "synchrony"
+    ],
+    "generated_distractors": [
+      "propagation",
+      "conduction",
+      "compression",
+      "extinction",
+      "reflection",
+      "distortion",
+      "diffusion",
+      "radiation",
+      "collision",
+      "interference"
+    ]
+  },
+  {
+    "sentence": "A type of [MASK] in a cow 's gut enables the animal to digest grass ",
+    "answer": "bacteria",
+    "distractors": [
+      "virus",
+      "pests",
+      "algae"
+    ],
+    "generated_distractors": [
+      "fungus",
+      "worms",
+      "bacterium",
+      "parasites",
+      "fungi",
+      "lipids",
+      "enzymes",
+      "protein",
+      "toxins",
+      "intestine"
+    ]
+  },
+  {
+    "sentence": "[MASK] are called the building blocks of life and comprise all living things",
+    "answer": "cells",
+    "distractors": [
+      "pigments",
+      "seeds",
+      "lipids"
+    ],
+    "generated_distractors": [
+      "organs",
+      "tissues",
+      "cells",
+      "bones",
+      "proteins",
+      "ions",
+      "muscles",
+      "organelles",
+      "eggs",
+      "grains"
+    ]
+  },
+  {
+    "sentence": "the study of the interaction between matter and energy is called [MASK]",
+    "answer": "chemistry",
+    "distractors": [
+      "astronomy",
+      "climatology",
+      "geology"
+    ],
+    "generated_distractors": [
+      "physics",
+      "chemistry",
+      "physiology",
+      "thermodynamics",
+      "astronomy",
+      "microbiology",
+      "biology",
+      "biochemistry",
+      "geology",
+      "electrochemistry"
+    ]
+  },
+  {
+    "sentence": "Flowers pollinated by [MASK] means generally lack brightly colored parts ",
+    "answer": "wind",
+    "distractors": [
+      "butterflies",
+      "larvae",
+      "bees"
+    ],
+    "generated_distractors": [
+      "rain",
+      "water",
+      "sunlight",
+      "light",
+      "insects",
+      "soil",
+      "heat",
+      "sun",
+      "ice",
+      "rainfall"
+    ]
+  },
+  {
+    "sentence": "In physics , work means the use of [MASK] to move an object ",
+    "answer": "force",
+    "distractors": [
+      "mass",
+      "energy",
+      "leverage"
+    ],
+    "generated_distractors": [
+      "friction",
+      "electricity",
+      "momentum",
+      "gravity",
+      "sound",
+      "energy",
+      "heat",
+      "magnetic",
+      "speed",
+      "frictional"
+    ]
+  },
+  {
+    "sentence": " making measurements that are close to the true value known as [MASK]",
+    "answer": "accuracy",
+    "distractors": [
+      "estimation",
+      "frequency",
+      "prediction"
+    ],
+    "generated_distractors": [
+      "precision",
+      "accuracy",
+      "sensitivity",
+      "fidelity",
+      "consistency",
+      "proportionality",
+      "speed",
+      "proportions",
+      "measurement",
+      "frequency"
+    ]
+  },
+  {
+    "sentence": "[MASK] are created based upon the loss or gain of electrons",
+    "answer": "ions",
+    "distractors": [
+      "crystals",
+      "atoms",
+      "hydrogens"
+    ],
+    "generated_distractors": [
+      "atoms",
+      "neutrons",
+      "ions",
+      "electrons",
+      "molecules",
+      "particles",
+      "crystals",
+      "solids",
+      "gases",
+      "helium"
+    ]
+  },
+  {
+    "sentence": "Females of [MASK] mammalian group have mammary glands but lack nipples ",
+    "answer": "monotreme",
+    "distractors": [
+      "prosauropod",
+      "Eutheria",
+      "Metatheria"
+    ],
+    "generated_distractors": [
+      "chromosomes",
+      "symbiotic",
+      "gamma",
+      "genitals",
+      "octopus",
+      "monotreme",
+      "occipital",
+      "mammal",
+      "chromosome",
+      "eukaryotic"
+    ]
+  },
+  {
+    "sentence": "[MASK] helps fungus digest cellulose and other materials found in rotting matter",
+    "answer": "enzymes",
+    "distractors": [
+      "carbohydrates",
+      "hormones",
+      "soil"
+    ],
+    "generated_distractors": [
+      "enzymes",
+      "proteins",
+      "carbohydrates",
+      "hormones",
+      "minerals",
+      "nutrients",
+      "toxins",
+      "ions",
+      "acids",
+      "bacteria"
+    ]
+  },
+  {
+    "sentence": "In [MASK] form of lipids cells store energy for long-term use ",
+    "answer": "fat",
+    "distractors": [
+      "meat",
+      "nuts",
+      "treasure"
+    ],
+    "generated_distractors": [
+      "glucose",
+      "carbohydrates",
+      "protein",
+      "proteins",
+      "cellulose",
+      "glycoprotein",
+      "sugar",
+      "sugars",
+      "glycogen",
+      "cholesterol"
+    ]
+  },
+  {
+    "sentence": "[MASK] is released into the atmosphere when fossil fuels are burned",
+    "answer": "co2",
+    "distractors": [
+      "hydrogen",
+      "glucose",
+      "helium"
+    ],
+    "generated_distractors": [
+      "carbon",
+      "helium",
+      "ion",
+      "co2",
+      "smog",
+      "CO2",
+      "ozone",
+      "nitrogen",
+      "sand",
+      "hydrogen"
+    ]
+  },
+  {
+    "sentence": "[MASK] of matter completes the list : solid , liquid , gas",
+    "answer": "plasma",
+    "distractors": [
+      "energy",
+      "ice",
+      "power"
+    ],
+    "generated_distractors": [
+      "liquid",
+      "vapor",
+      "solid",
+      "plasma",
+      "gas",
+      "atom",
+      "ions",
+      "matter",
+      "fluid",
+      "carbon"
+    ]
+  },
+  {
+    "sentence": "The heart , blood vessels , and blood make up [MASK] system in the body ",
+    "answer": "cardiovascular",
+    "distractors": [
+      "digestive",
+      "pulminary",
+      "respiratory"
+    ],
+    "generated_distractors": [
+      "circulatory",
+      "gastrointestinal",
+      "skeletal",
+      "digestive",
+      "vascular",
+      "lymphatic",
+      "nervous",
+      "pulmonary",
+      "lungs",
+      "respiratory"
+    ]
+  },
+  {
+    "sentence": "[MASK] of measurement is typically used for rainfall",
+    "answer": "inches",
+    "distractors": [
+      "gallons",
+      "feet",
+      "pounds"
+    ],
+    "generated_distractors": [
+      "kilograms",
+      "meters",
+      "grams",
+      "pounds",
+      "meter",
+      "degrees",
+      "kilometers",
+      "mm",
+      "inches",
+      "miles"
+    ]
+  },
+  {
+    "sentence": "it is called [MASK] when bones get longer and bigger",
+    "answer": "growth",
+    "distractors": [
+      "expansion",
+      "replication",
+      "reproduction"
+    ],
+    "generated_distractors": [
+      "growth",
+      "decay",
+      "differentiation",
+      "deposition",
+      "regeneration",
+      "aging",
+      "contraction",
+      "migration",
+      "development",
+      "expansion"
+    ]
+  },
+  {
+    "sentence": "skeletal muscles enable the body to [MASK]",
+    "answer": "move",
+    "distractors": [
+      "breathe",
+      "look",
+      "eat"
+    ],
+    "generated_distractors": [
+      "eat",
+      "move",
+      "rest",
+      "sit",
+      "assemble",
+      "hold",
+      "sleep",
+      "flex",
+      "breathe",
+      "run"
+    ]
+  },
+  {
+    "sentence": "the sum total of all body reactions is [MASK]",
+    "answer": "metabolism",
+    "distractors": [
+      "respiration",
+      "growth",
+      "immunity"
+    ],
+    "generated_distractors": [
+      "metabolism",
+      "respiration",
+      "physiology",
+      "metabolites",
+      "reactivity",
+      "thermogenesis",
+      "electrolysis",
+      "digestion",
+      "energy",
+      "metabolic"
+    ]
+  },
+  {
+    "sentence": "characteristics that describe matter are [MASK] of properties",
+    "answer": "physical",
+    "distractors": [
+      "visible",
+      "thermal",
+      "invisible"
+    ],
+    "generated_distractors": [
+      "chemical",
+      "mechanical",
+      "electrical",
+      "physical",
+      "structural",
+      "kinetic",
+      "atomic",
+      "biological",
+      "electromagnetic",
+      "measurable"
+    ]
+  },
+  {
+    "sentence": "What results [MASK] gas particles rebound off the walls of their container ",
+    "answer": "pressure",
+    "distractors": [
+      "light",
+      "pull",
+      "weight"
+    ],
+    "generated_distractors": [
+      "temperature",
+      "heat",
+      "velocity",
+      "vapor",
+      "friction",
+      "gravity",
+      "momentum",
+      "vibration",
+      "electricity",
+      "weight"
+    ]
+  },
+  {
+    "sentence": "the ability to cause changes in matter is [MASK]",
+    "answer": "energy",
+    "distractors": [
+      "force",
+      "hydrogen",
+      "pressure"
+    ],
+    "generated_distractors": [
+      "energy",
+      "gravity",
+      "kinetic",
+      "electricity",
+      "heat",
+      "water",
+      "power",
+      "chemistry",
+      "sound",
+      "physics"
+    ]
+  },
+  {
+    "sentence": "phagocytosis defend the body from [MASK]",
+    "answer": "pathogens",
+    "distractors": [
+      "allergies",
+      "obesity",
+      "parasites"
+    ],
+    "generated_distractors": [
+      "bacteria",
+      "viruses",
+      "toxins",
+      "predators",
+      "pests",
+      "germs",
+      "insects",
+      "infections",
+      "bacterial",
+      "virus"
+    ]
+  },
+  {
+    "sentence": "[MASK] measures the force of gravity pulling on an object",
+    "answer": "weight",
+    "distractors": [
+      "density",
+      "volume",
+      "velocity"
+    ],
+    "generated_distractors": [
+      "volume",
+      "weight",
+      "temperature",
+      "mass",
+      "height",
+      "speed",
+      "velocity",
+      "size",
+      "friction",
+      "diameter"
+    ]
+  },
+  {
+    "sentence": "coral reefs are [MASK] found in warm or cold water",
+    "answer": "warm",
+    "distractors": [
+      "cool",
+      "cold",
+      "both"
+    ],
+    "generated_distractors": [
+      "cold",
+      "cool",
+      "shallow",
+      "dry",
+      "icy",
+      "ice",
+      "warm",
+      "hot",
+      "chilly",
+      "deep"
+    ]
+  },
+  {
+    "sentence": "The large positive free energy change leads to a value that is extremely [MASK] ",
+    "answer": "small",
+    "distractors": [
+      "random",
+      "complex",
+      "high"
+    ],
+    "generated_distractors": [
+      "high",
+      "large",
+      "measurable",
+      "very large",
+      "extreme",
+      "low",
+      "small",
+      "significant",
+      "arbitrary",
+      "very high"
+    ]
+  },
+  {
+    "sentence": "the body cavity that reptiles have that is involved in reproduction is [MASK]",
+    "answer": "cloaca",
+    "distractors": [
+      "hypothalamus",
+      "pristil",
+      "ovules"
+    ],
+    "generated_distractors": [
+      "axon",
+      "fetus",
+      "osmosis",
+      "ribosomes",
+      "genitals",
+      "axons",
+      "tachyon",
+      "skeleton",
+      "ribosome",
+      "symbiotic"
+    ]
+  },
+  {
+    "sentence": "During asexual reproduction , fungi produce haploid spores by [MASK] process involving a haploid parent cell ",
+    "answer": "mitosis",
+    "distractors": [
+      "osmosis",
+      "evaporation",
+      "divergence"
+    ],
+    "generated_distractors": [
+      "osmosis",
+      "mitosis",
+      "spores",
+      "morphosis",
+      "chloroplasts",
+      "decomposition",
+      "euthanasia",
+      "morphogenesis",
+      "sex",
+      "cytoplasm"
+    ]
+  },
+  {
+    "sentence": "In eukaryotes , oxidative phosphorylation takes place in [MASK] ",
+    "answer": "mitochondria",
+    "distractors": [
+      "glucose",
+      "lipids",
+      "nucleus"
+    ],
+    "generated_distractors": [
+      "cytoplasm",
+      "lipids",
+      "membranes",
+      "nuclei",
+      "arteries",
+      "lungs",
+      "nucleus",
+      "mitochondria",
+      "organelles",
+      "cells"
+    ]
+  },
+  {
+    "sentence": "fungi use [MASK] to penetrate deep into decaying matter",
+    "answer": "hyphae",
+    "distractors": [
+      "cilia",
+      "cytoplasm",
+      "flagella"
+    ],
+    "generated_distractors": [
+      "spores",
+      "chloroplasts",
+      "microbes",
+      "chlorophyll",
+      "sporozoans",
+      "worms",
+      "atoms",
+      "sporozoa",
+      "larvae",
+      "crystals"
+    ]
+  },
+  {
+    "sentence": "Under appropriate conditions , the attractions between all molecules in [MASK] state will cause them to form liquids or solids ",
+    "answer": "gas",
+    "distractors": [
+      "soild",
+      "plasma",
+      "liquid"
+    ],
+    "generated_distractors": [
+      "liquid",
+      "liquids",
+      "gas",
+      "vapor",
+      "solids",
+      "solid",
+      "water",
+      "fluids",
+      "air",
+      "light"
+    ]
+  },
+  {
+    "sentence": "[MASK] else besides temperature has an effect on the phase of a substance",
+    "answer": "pressure",
+    "distractors": [
+      "weight",
+      "resistance",
+      "energy"
+    ],
+    "generated_distractors": [
+      "temperature",
+      "velocity",
+      "gravity",
+      "weight",
+      "pressure",
+      "mass",
+      "density",
+      "humidity",
+      "momentum",
+      "speed"
+    ]
+  },
+  {
+    "sentence": "Animals that molt their exoskeletons belong to [MASK] clade ",
+    "answer": "ecdysozoa",
+    "distractors": [
+      "protists",
+      "spirogyra",
+      "trichina"
+    ],
+    "generated_distractors": [
+      "chromosomes",
+      "osmosis",
+      "axons",
+      "symbiotic",
+      "zygotes",
+      "zoonoses",
+      "symbiotics",
+      "zoosa",
+      "zoophyll",
+      "zoota"
+    ]
+  },
+  {
+    "sentence": "the process that breaks down rocks into smaller pieces is [MASK]",
+    "answer": "weathering",
+    "distractors": [
+      "erosion",
+      "bracing",
+      "bleaching"
+    ],
+    "generated_distractors": [
+      "cracking",
+      "melting",
+      "bending",
+      "grinding",
+      "deposition",
+      "splitting",
+      "breaking",
+      "forming",
+      "cutting",
+      "erosion"
+    ]
+  },
+  {
+    "sentence": "the measurement for the amount of water vapor in the air is [MASK]",
+    "answer": "humidity",
+    "distractors": [
+      "haze",
+      "ambient",
+      "saturation"
+    ],
+    "generated_distractors": [
+      "temperature",
+      "velocity",
+      "mass",
+      "heat",
+      "vapor",
+      "gravity",
+      "humidity",
+      "pressure",
+      "hum",
+      "light"
+    ]
+  },
+  {
+    "sentence": "After [MASK] stage do the last 2 stages of food processing occur ",
+    "answer": "digestion",
+    "distractors": [
+      "filtration",
+      "excretion",
+      "circulation"
+    ],
+    "generated_distractors": [
+      "digestion",
+      "fermentation",
+      "respiration",
+      "absorption",
+      "metabolism",
+      "synthesis",
+      "metabolization",
+      "production",
+      "sex",
+      "amplification"
+    ]
+  },
+  {
+    "sentence": "Leaves respond to these environmental stimuli by producing less [MASK] ",
+    "answer": "chlorophyll",
+    "distractors": [
+      "oxygen",
+      "carbonate",
+      "energy"
+    ],
+    "generated_distractors": [
+      "helium",
+      "chloroplasm",
+      "chloroplast",
+      "ethanol",
+      "cellulose",
+      "ethylene",
+      "potassium",
+      "carbon",
+      "oxygen",
+      "nitrogen"
+    ]
+  },
+  {
+    "sentence": "Mammals that lay eggs are called [MASK] ",
+    "answer": "monotremes",
+    "distractors": [
+      "viviparous",
+      "herbivores",
+      "marsupial"
+    ],
+    "generated_distractors": [
+      "sporozoans",
+      "aphids",
+      "octopus",
+      "spores",
+      "monotremes",
+      "sporozoa",
+      "parasites",
+      "germinations",
+      "germination",
+      "symbiotic"
+    ]
+  },
+  {
+    "sentence": "Models may be physical , conceptual , or [MASK] ",
+    "answer": "mathematical",
+    "distractors": [
+      "experimental",
+      "fundamental",
+      "theoretical"
+    ],
+    "generated_distractors": [
+      "logical",
+      "experimental",
+      "conceptual",
+      "structural",
+      "graphical",
+      "symbolic",
+      "theoretical",
+      "mathematical",
+      "causal",
+      "metric"
+    ]
+  },
+  {
+    "sentence": "[MASK] of living things break down dead organisms and recycle their nutrients into the soil",
+    "answer": "decomposers",
+    "distractors": [
+      "producers",
+      "consumers",
+      "probiotics"
+    ],
+    "generated_distractors": [
+      "predators",
+      "prey",
+      "pollinators",
+      "spawners",
+      "eaters",
+      "producers",
+      "larvae",
+      "spawns",
+      "spawning",
+      "hunters"
+    ]
+  },
+  {
+    "sentence": "[MASK] describes any chemical that affects the body ' s structure or function",
+    "answer": "drug",
+    "distractors": [
+      "treatment",
+      "toxin",
+      "gift"
+    ],
+    "generated_distractors": [
+      "food",
+      "chemical",
+      "insect",
+      "molecule",
+      "alcohol",
+      "hormone",
+      "hormones",
+      "protein",
+      "drug",
+      "fuel"
+    ]
+  },
+  {
+    "sentence": "The entry of acidic chyme into the duodenum stimulates the release of [MASK] ",
+    "answer": "secretin",
+    "distractors": [
+      "progesterone",
+      "gastrin",
+      "oxygen"
+    ],
+    "generated_distractors": [
+      "cytokines",
+      "protazoa",
+      "serotonin",
+      "peptides",
+      "selenium",
+      "ketone",
+      "hormones",
+      "axon",
+      "ketamine",
+      "protazoan"
+    ]
+  },
+  {
+    "sentence": "Intensity is defined to be the power per unit area carried by a [MASK] ",
+    "answer": "wave",
+    "distractors": [
+      "filament",
+      "shift",
+      "wire"
+    ],
+    "generated_distractors": [
+      "wave",
+      "watt",
+      "pulse",
+      "arc",
+      "ray",
+      "molecule",
+      "volt",
+      "magnetic",
+      "pixel",
+      "sound"
+    ]
+  },
+  {
+    "sentence": "[MASK] takes the shape of the container they are placed in and have a definite volume",
+    "answer": "liquids",
+    "distractors": [
+      "gases",
+      "solids",
+      "loads"
+    ],
+    "generated_distractors": [
+      "gases",
+      "solids",
+      "liquids",
+      "powders",
+      "particles",
+      "ions",
+      "proteins",
+      "molecules",
+      "gasses",
+      "grains"
+    ]
+  },
+  {
+    "sentence": "Due to the difference in the distribution of charge , water is [MASK] type of molecule ",
+    "answer": "polar",
+    "distractors": [
+      "ionic",
+      "uneven",
+      "crooked"
+    ],
+    "generated_distractors": [
+      "polar",
+      "helium",
+      "ionic",
+      "convection",
+      "nonpolar",
+      "asymmetric",
+      "neutron",
+      "neutrons",
+      "symmetric",
+      "neutral"
+    ]
+  },
+  {
+    "sentence": "In a model of a hemoglobin molecule , the purple part indicates the presence of [MASK] element ",
+    "answer": "iron",
+    "distractors": [
+      "gold",
+      "helium",
+      "silver"
+    ],
+    "generated_distractors": [
+      "hydrogen",
+      "potassium",
+      "calcium",
+      "carbon",
+      "sulfur",
+      "nitrogen",
+      "copper",
+      "magnesium",
+      "sodium",
+      "ions"
+    ]
+  },
+  {
+    "sentence": "[MASK] of substance is considered a proton donor in a reaction",
+    "answer": "acid",
+    "distractors": [
+      "base",
+      "carbon",
+      "oxygen"
+    ],
+    "generated_distractors": [
+      "nitrogen",
+      "carbon",
+      "gas",
+      "liquid",
+      "hydrogen",
+      "water",
+      "oxygen",
+      "ethanol",
+      "solid",
+      "metal"
+    ]
+  },
+  {
+    "sentence": "The plasma membrane of a skeletal muscle fiber is called the [MASK] ",
+    "answer": "sarcolemma",
+    "distractors": [
+      "sheath",
+      "annulata",
+      "soleus"
+    ],
+    "generated_distractors": [
+      "spleen",
+      "ribosome",
+      "axon",
+      "skeleton",
+      "axons",
+      "vacuole",
+      "osmosis",
+      "ribosomes",
+      "symbiotic",
+      "synapse"
+    ]
+  },
+  {
+    "sentence": "the force is pulling an object downward called [MASK]",
+    "answer": "weight",
+    "distractors": [
+      "momentum",
+      "density",
+      "magnetism"
+    ],
+    "generated_distractors": [
+      "weight",
+      "temperature",
+      "volume",
+      "height",
+      "velocity",
+      "friction",
+      "speed",
+      "mass",
+      "momentum",
+      "power"
+    ]
+  },
+  {
+    "sentence": "[MASK] of all mammals have the same basic bone structure",
+    "answer": "forelimbs",
+    "distractors": [
+      "ankles",
+      "knees",
+      "necks"
+    ],
+    "generated_distractors": [
+      "tails",
+      "tail",
+      "legs",
+      "lungs",
+      "chin",
+      "thighs",
+      "stomach",
+      "ears",
+      "feet",
+      "head"
+    ]
+  },
+  {
+    "sentence": "The symbol for each [MASK] is usually the first letter or two of its name ",
+    "answer": "element",
+    "distractors": [
+      "state",
+      "property",
+      "material"
+    ],
+    "generated_distractors": [
+      "element",
+      "atom",
+      "digit",
+      "number",
+      "shape",
+      "symbol",
+      "molecule",
+      "byte",
+      "gram",
+      "component"
+    ]
+  },
+  {
+    "sentence": "Bioluminescence is an example of [MASK] type of activity that is carried out by a cell and is precisely coordinated and controlled ",
+    "answer": "metabolic",
+    "distractors": [
+      "growth",
+      "respiration",
+      "reproduction"
+    ],
+    "generated_distractors": [
+      "cellular",
+      "neurotransmitter",
+      "enzymatic",
+      "physiologic",
+      "metabolic",
+      "cytoplasmic",
+      "biochemical",
+      "neuronal",
+      "chromosome",
+      "neurotransmitting"
+    ]
+  },
+  {
+    "sentence": "[MASK] is commonly tested in newborn infants to establish the presence of neuromuscular function",
+    "answer": "plantar",
+    "distractors": [
+      "phalanges",
+      "renal",
+      "glandular"
+    ],
+    "generated_distractors": [
+      "uterus",
+      "ovary",
+      "hypothalamus",
+      "cranium",
+      "ovaries",
+      "cortical",
+      "axonal",
+      "axon",
+      "sex",
+      "ovarian"
+    ]
+  },
+  {
+    "sentence": "the distinctive shape of the molecule that contains genetic information is [MASK]",
+    "answer": "spiral",
+    "distractors": [
+      "cube",
+      "conical",
+      "cylindrical"
+    ],
+    "generated_distractors": [
+      "hexagonal",
+      "pyramid",
+      "curved",
+      "arc",
+      "spiral",
+      "cylinder",
+      "ridge",
+      "ring",
+      "oval",
+      "rounded"
+    ]
+  },
+  {
+    "sentence": "most echinoderms reproduce [MASK]",
+    "answer": "sexually",
+    "distractors": [
+      "asexually",
+      "flowering",
+      "grafting"
+    ],
+    "generated_distractors": [
+      "asexually",
+      "genitally",
+      "biologically",
+      "sexually",
+      "sexily",
+      "feces",
+      "reproductively",
+      "physically",
+      "mechanically",
+      "genital"
+    ]
+  },
+  {
+    "sentence": "electric motors use [MASK] to change electrical energy into kinetic",
+    "answer": "electromagnets",
+    "distractors": [
+      "resonances",
+      "generators",
+      "fans"
+    ],
+    "generated_distractors": [
+      "magnets",
+      "transistors",
+      "electrons",
+      "generators",
+      "ions",
+      "batteries",
+      "tubes",
+      "electric",
+      "switches",
+      "friction"
+    ]
+  },
+  {
+    "sentence": "prokaryotic cells are filled with [MASK]",
+    "answer": "cytoplasm",
+    "distractors": [
+      "rna",
+      "chlorophyll",
+      "protein"
+    ],
+    "generated_distractors": [
+      "cytoplasm",
+      "chloroplasm",
+      "helium",
+      "lipids",
+      "plasmin",
+      "membranes",
+      "mitochondria",
+      "plasma",
+      "DNA",
+      "ions"
+    ]
+  },
+  {
+    "sentence": "the name of plant-like protists is [MASK]",
+    "answer": "algae",
+    "distractors": [
+      "sponge",
+      "arthropod",
+      "bacteria"
+    ],
+    "generated_distractors": [
+      "fungi",
+      "worms",
+      "weeds",
+      "ferns",
+      "grasses",
+      "fungus",
+      "algae",
+      "moss",
+      "plants",
+      "bacteria"
+    ]
+  },
+  {
+    "sentence": "A sticky , moist secretion that covers mucous membranes is called [MASK] ",
+    "answer": "mucus",
+    "distractors": [
+      "sweat",
+      "pus",
+      "saliva"
+    ],
+    "generated_distractors": [
+      "mucus",
+      "saliva",
+      "mucous",
+      "urine",
+      "lungs",
+      "sex",
+      "blood",
+      "fluids",
+      "toxins",
+      "pus"
+    ]
+  },
+  {
+    "sentence": "[MASK] lets flatworms maintain a proper balance of water and salts",
+    "answer": "excretory",
+    "distractors": [
+      "homeostasis",
+      "nervous",
+      "digestive"
+    ],
+    "generated_distractors": [
+      "skeleton",
+      "salivary",
+      "digestive",
+      "colony",
+      "gastrointestinal",
+      "nectar",
+      "larval",
+      "reproductive",
+      "intestine",
+      "genital"
+    ]
+  },
+  {
+    "sentence": "Because their embryos are surrounded by a thin membrane , reptiles are considered [MASK] ",
+    "answer": "amniotes",
+    "distractors": [
+      "carnivorous",
+      "vertebrates",
+      "lineages"
+    ],
+    "generated_distractors": [
+      "worms",
+      "reptiles",
+      "sporozoans",
+      "parasites",
+      "protazoa",
+      "protists",
+      "amphibians",
+      "spores",
+      "larvae",
+      "feces"
+    ]
+  },
+  {
+    "sentence": "Physical and chemical properties of geometric isomers are generally [MASK] ",
+    "answer": "different",
+    "distractors": [
+      "round",
+      "difficult",
+      "similar"
+    ],
+    "generated_distractors": [
+      "similar",
+      "different",
+      "the same",
+      "identical",
+      "varying",
+      "symmetric",
+      "correlated",
+      "uniform",
+      "same",
+      "polar"
+    ]
+  },
+  {
+    "sentence": "[MASK] of cell has a singular chromosome , no nucleus , and few other organelles",
+    "answer": "prokaryotic",
+    "distractors": [
+      "trophic",
+      "graphic",
+      "monophyletic"
+    ],
+    "generated_distractors": [
+      "prokaryotic",
+      "protazoa",
+      "protozoa",
+      "chromosome",
+      "zygotes",
+      "protazoal",
+      "protazoan",
+      "bacterium",
+      "cytoplasm",
+      "bacterial"
+    ]
+  },
+  {
+    "sentence": "Protists , fungi , animals , and plants all consist of [MASK] kind of cells ",
+    "answer": "eukaryotic",
+    "distractors": [
+      "xylem",
+      "enzymes",
+      "parenchyma"
+    ],
+    "generated_distractors": [
+      "protozoa",
+      "protazoa",
+      "macrophages",
+      "protazoal",
+      "microbes",
+      "protazoan",
+      "bacterium",
+      "protazoic",
+      "protist",
+      "cytoplasmic"
+    ]
+  },
+  {
+    "sentence": "the first digestive organ that food enters is [MASK]",
+    "answer": "mouth",
+    "distractors": [
+      "stomach",
+      "tongue",
+      "esophagus"
+    ],
+    "generated_distractors": [
+      "stomach",
+      "heart",
+      "lungs",
+      "liver",
+      "kidney",
+      "mouth",
+      "brain",
+      "nose",
+      "kidneys",
+      "eye"
+    ]
+  },
+  {
+    "sentence": "Insulin is made up of [MASK] many polypeptide chains ",
+    "answer": "two",
+    "distractors": [
+      "three",
+      "four",
+      "twelve"
+    ],
+    "generated_distractors": [
+      "three",
+      "four",
+      "five",
+      "one",
+      "ten",
+      "six",
+      "two",
+      "seven",
+      "eight",
+      "nine"
+    ]
+  },
+  {
+    "sentence": "[MASK] creates bile",
+    "answer": "liver",
+    "distractors": [
+      "kidney",
+      "pancreas",
+      "heart"
+    ],
+    "generated_distractors": [
+      "kidney",
+      "lungs",
+      "stomach",
+      "kidneys",
+      "brain",
+      "liver",
+      "heart",
+      "thyroid",
+      "lung",
+      "skin"
+    ]
+  },
+  {
+    "sentence": "[MASK] is used for any combination of two or more atoms",
+    "answer": "molecule",
+    "distractors": [
+      "element",
+      "synthesis",
+      "nucleus"
+    ],
+    "generated_distractors": [
+      "molecule",
+      "atom",
+      "particle",
+      "electrons",
+      "molecules",
+      "protein",
+      "element",
+      "compound",
+      "mass",
+      "structure"
+    ]
+  },
+  {
+    "sentence": "the name of the part that connects the vagina with the uterus is [MASK]",
+    "answer": "cervix",
+    "distractors": [
+      "urethra",
+      "ovary",
+      "vulva"
+    ],
+    "generated_distractors": [
+      "uterus",
+      "pelvis",
+      "sex",
+      "vaginal",
+      "ovaries",
+      "ovary",
+      "ribs",
+      "stomach",
+      "abdomen",
+      "thyroid"
+    ]
+  },
+  {
+    "sentence": "Geysers are created when [MASK] is heated beneath the earth 's surface ",
+    "answer": "water",
+    "distractors": [
+      "magma",
+      "gases",
+      "air"
+    ],
+    "generated_distractors": [
+      "electricity",
+      "air",
+      "lava",
+      "gas",
+      "ice",
+      "soil",
+      "carbon",
+      "metals",
+      "earth",
+      "metal"
+    ]
+  },
+  {
+    "sentence": "the measure of the force of gravity is pulling down on an object called [MASK]",
+    "answer": "weight",
+    "distractors": [
+      "factor",
+      "mass",
+      "volume"
+    ],
+    "generated_distractors": [
+      "weight",
+      "volume",
+      "mass",
+      "temperature",
+      "speed",
+      "velocity",
+      "height",
+      "friction",
+      "momentum",
+      "acceleration"
+    ]
+  },
+  {
+    "sentence": "A yolk sac replaces [MASK] structure for nourishing a marsupial embryo ",
+    "answer": "placenta",
+    "distractors": [
+      "uterus",
+      "glucose",
+      "Stomach"
+    ],
+    "generated_distractors": [
+      "uterus",
+      "sperm",
+      "ribosome",
+      "axon",
+      "spleen",
+      "ovaries",
+      "ovary",
+      "genitals",
+      "nucleus",
+      "genital"
+    ]
+  },
+  {
+    "sentence": "the process of the fusion of a sperm and an egg is called [MASK]",
+    "answer": "fertilization",
+    "distractors": [
+      "Sperm",
+      "embryo",
+      "stimulation"
+    ],
+    "generated_distractors": [
+      "fertilization",
+      "germination",
+      "decomposition",
+      "sperm",
+      "implantation",
+      "absorption",
+      "migration",
+      "maturation",
+      "fertilization",
+      "reproduction"
+    ]
+  },
+  {
+    "sentence": "the motion that moves the forearm from the supinated position to the pronated position is [MASK]",
+    "answer": "pronation",
+    "distractors": [
+      "extension",
+      "flexion",
+      "supination"
+    ],
+    "generated_distractors": [
+      "flexion",
+      "compression",
+      "rotation",
+      "traction",
+      "propulsion",
+      "contraction",
+      "movement",
+      "extension",
+      "motion",
+      "acceleration"
+    ]
+  },
+  {
+    "sentence": "[MASK] are essential for pollination , but can spread disease and destroy crops",
+    "answer": "insects",
+    "distractors": [
+      "fruits",
+      "spiders",
+      "mice"
+    ],
+    "generated_distractors": [
+      "birds",
+      "insects",
+      "plants",
+      "flowers",
+      "fish",
+      "bacteria",
+      "trees",
+      "animals",
+      "mammals",
+      "ants"
+    ]
+  },
+  {
+    "sentence": "Metalloids , metals , and nonmetals are all classes of [MASK] ",
+    "answer": "elements",
+    "distractors": [
+      "compounds",
+      "protons",
+      "matter"
+    ],
+    "generated_distractors": [
+      "metals",
+      "molecules",
+      "gases",
+      "ions",
+      "particles",
+      "compounds",
+      "elements",
+      "minerals",
+      "components",
+      "substances"
+    ]
+  },
+  {
+    "sentence": "[MASK] of invisible waves are used in microwaves",
+    "answer": "radiation",
+    "distractors": [
+      "convection",
+      "electric",
+      "thermal"
+    ],
+    "generated_distractors": [
+      "sound",
+      "magnetic",
+      "noise",
+      "vibrations",
+      "light",
+      "vibration",
+      "reflections",
+      "vapor",
+      "reflected",
+      "heat"
+    ]
+  },
+  {
+    "sentence": "[MASK] muscular organ pumps blood all around your body ",
+    "answer": "heart",
+    "distractors": [
+      "stomach",
+      "lungs",
+      "pancreas"
+    ],
+    "generated_distractors": [
+      "kidney",
+      "lungs",
+      "liver",
+      "stomach",
+      "brain",
+      "heart",
+      "lung",
+      "thyroid",
+      "kidneys",
+      "skin"
+    ]
+  },
+  {
+    "sentence": "[MASK] causes the changes of puberty",
+    "answer": "estrogen",
+    "distractors": [
+      "glucose",
+      "insulin",
+      "testosterone"
+    ],
+    "generated_distractors": [
+      "sperm",
+      "estrogen",
+      "testosterone",
+      "ovulation",
+      "hormones",
+      "phenotype",
+      "phenyla",
+      "adrenaline",
+      "hormone",
+      "alcohol"
+    ]
+  },
+  {
+    "sentence": "[MASK] of plant tissue transports water and dissolved mineral upward to the leaves",
+    "answer": "xylem",
+    "distractors": [
+      "collagen",
+      "ectoderm",
+      "phloem"
+    ],
+    "generated_distractors": [
+      "stem",
+      "epidermis",
+      "axon",
+      "chlorophyll",
+      "ribosome",
+      "bristle",
+      "spores",
+      "axillary",
+      "spore",
+      "leaf"
+    ]
+  },
+  {
+    "sentence": "Surface tension is a property of matter that is in [MASK] state ",
+    "answer": "liquid",
+    "distractors": [
+      "mixture",
+      "water",
+      "Base"
+    ],
+    "generated_distractors": [
+      "solid",
+      "gas",
+      "liquid",
+      "vapor",
+      "fluid",
+      "gases",
+      "dissolved",
+      "air",
+      "crystalline",
+      "atom"
+    ]
+  },
+  {
+    "sentence": "the largest artery in the body is called [MASK]",
+    "answer": "aorta",
+    "distractors": [
+      "carotid",
+      "subclavian",
+      "femoral"
+    ],
+    "generated_distractors": [
+      "axon",
+      "spleen",
+      "pancreas",
+      "thoracic",
+      "lungs",
+      "iliac",
+      "tibia",
+      "arteries",
+      "pulmonary",
+      "heart"
+    ]
+  },
+  {
+    "sentence": "A switch in a circuit controls the flow of [MASK] , specifically , within the circuit ",
+    "answer": "current",
+    "distractors": [
+      "pressure",
+      "resistance",
+      "density"
+    ],
+    "generated_distractors": [
+      "voltage",
+      "energy",
+      "heat",
+      "temperature",
+      "electricity",
+      "power",
+      "light",
+      "air",
+      "current",
+      "vapor"
+    ]
+  },
+  {
+    "sentence": "Because they spread seeds , fruits are an agent of [MASK] ",
+    "answer": "dispersal",
+    "distractors": [
+      "propagation",
+      "disposal",
+      "predation"
+    ],
+    "generated_distractors": [
+      "germination",
+      "propagation",
+      "reproduction",
+      "fertilization",
+      "respiration",
+      "amplification",
+      "nutrient",
+      "regrowth",
+      "growth",
+      "repression"
+    ]
+  },
+  {
+    "sentence": "protists normally are [MASK] of eukaryotes",
+    "answer": "unicellular",
+    "distractors": [
+      "multicellular",
+      "photosynthetic",
+      "immature"
+    ],
+    "generated_distractors": [
+      "monocellular",
+      "multicellular",
+      "nuclei",
+      "cytoplasm",
+      "asexual",
+      "solitary",
+      "bicellular",
+      "nucleus",
+      "atypical",
+      "cellular"
+    ]
+  },
+  {
+    "sentence": "An inclined plane is a good example of [MASK] kind of machine ",
+    "answer": "simple",
+    "distractors": [
+      "strong",
+      "complex",
+      "weak"
+    ],
+    "generated_distractors": [
+      "complex",
+      "complicated",
+      "simple",
+      "rigid",
+      "rotary",
+      "powerful",
+      "curved",
+      "streamlined",
+      "specialized",
+      "heavy"
+    ]
+  },
+  {
+    "sentence": "[MASK] of the plant has a root end and a shoot end",
+    "answer": "axis",
+    "distractors": [
+      "radius",
+      "leaves",
+      "pistol"
+    ],
+    "generated_distractors": [
+      "stem",
+      "leaf",
+      "root",
+      "roots",
+      "plant",
+      "lateral",
+      "leaves",
+      "base",
+      "bud",
+      "tip"
+    ]
+  },
+  {
+    "sentence": "Hardness , density , color , and melting and boiling points are all considered [MASK] types of properties ",
+    "answer": "physical",
+    "distractors": [
+      "chemical",
+      "visible",
+      "thermal"
+    ],
+    "generated_distractors": [
+      "chemical",
+      "mechanical",
+      "physical",
+      "electrical",
+      "kinetic",
+      "structural",
+      "dimensional",
+      "biological",
+      "measurable",
+      "thermal"
+    ]
+  },
+  {
+    "sentence": "Low levels of thyroid hormones in the blood cause the release of [MASK] by the hypothalamus and pituitary gland ",
+    "answer": "hormones",
+    "distractors": [
+      "acids",
+      "bases",
+      "enzymes"
+    ],
+    "generated_distractors": [
+      "hormones",
+      "toxins",
+      "estrogens",
+      "fats",
+      "adrenals",
+      "insulin",
+      "adrenal",
+      "thyroid",
+      "steroids",
+      "chemicals"
+    ]
+  },
+  {
+    "sentence": "the study of the composition of matter is [MASK] of chemistry",
+    "answer": "analytical",
+    "distractors": [
+      "philosophical",
+      "reactive",
+      "symbolic"
+    ],
+    "generated_distractors": [
+      "experimental",
+      "kinetic",
+      "atomic",
+      "chemical",
+      "structural",
+      "analytical",
+      "chemistry",
+      "quantitative",
+      "synthesis",
+      "theoretical"
+    ]
+  },
+  {
+    "sentence": "Regularly done aerobic activities can help build up endurance and make [MASK] vital organ stronger ",
+    "answer": "heart",
+    "distractors": [
+      "stomach",
+      "brain",
+      "skin"
+    ],
+    "generated_distractors": [
+      "kidney",
+      "liver",
+      "brain",
+      "lungs",
+      "stomach",
+      "heart",
+      "lung",
+      "thyroid",
+      "kidneys",
+      "bladder"
+    ]
+  },
+  {
+    "sentence": "all chemical sections need [MASK] to get started",
+    "answer": "energy",
+    "distractors": [
+      "speed",
+      "work",
+      "pressure"
+    ],
+    "generated_distractors": [
+      "water",
+      "energy",
+      "heat",
+      "temperature",
+      "fuel",
+      "electricity",
+      "chemistry",
+      "power",
+      "time",
+      "mass"
+    ]
+  },
+  {
+    "sentence": "people apply to their lawns that causes water pollution [MASK]",
+    "answer": "chemicals",
+    "distractors": [
+      "seeds",
+      "manure",
+      "water"
+    ],
+    "generated_distractors": [
+      "fertilizers",
+      "chemicals",
+      "fertilizer",
+      "plastics",
+      "metals",
+      "soils",
+      "pests",
+      "soil",
+      "toxins",
+      "chemical"
+    ]
+  },
+  {
+    "sentence": "[MASK] help it survive",
+    "answer": "adaptations",
+    "distractors": [
+      "systems",
+      "additions",
+      "Changes"
+    ],
+    "generated_distractors": [
+      "migrations",
+      "mutations",
+      "adaptations",
+      "genetics",
+      "changes",
+      "reproductions",
+      "extinction",
+      "modifications",
+      "migration",
+      "structures"
+    ]
+  },
+  {
+    "sentence": "The major component of a solution is called [MASK] ",
+    "answer": "solvent",
+    "distractors": [
+      "solute",
+      "mixture",
+      "water"
+    ],
+    "generated_distractors": [
+      "molecule",
+      "gas",
+      "ions",
+      "protein",
+      "catalyst",
+      "liquid",
+      "solvent",
+      "water",
+      "temperature",
+      "energy"
+    ]
+  },
+  {
+    "sentence": "[MASK] takes place when water on earth ' s surface changes to water vapor",
+    "answer": "evaporation",
+    "distractors": [
+      "condensation",
+      "transpiration",
+      "absorption"
+    ],
+    "generated_distractors": [
+      "precipitation",
+      "condensation",
+      "transpiration",
+      "decomposition",
+      "deposition",
+      "sedimentation",
+      "vaporization",
+      "absorption",
+      "vaporation",
+      "erosion"
+    ]
+  },
+  {
+    "sentence": "The muscles of the anterior neck assist in deglutition also known as [MASK] ",
+    "answer": "swallowing",
+    "distractors": [
+      "breathing",
+      "staring",
+      "pulling"
+    ],
+    "generated_distractors": [
+      "swallowing",
+      "breathing",
+      "eating",
+      "speaking",
+      "walking",
+      "sleeping",
+      "talking",
+      "bending",
+      "concentrating",
+      "hearing"
+    ]
+  },
+  {
+    "sentence": "carbon dioxide and water vapor that is produced by cellular respiration released is [MASK]",
+    "answer": "exhalation",
+    "distractors": [
+      "peroxidation",
+      "fermentation",
+      "evaporation"
+    ],
+    "generated_distractors": [
+      "respiration",
+      "inhalation",
+      "exhalation",
+      "ingestion",
+      "transpiration",
+      "infiltration",
+      "expulsion",
+      "excitation",
+      "absorption",
+      "inhalations"
+    ]
+  },
+  {
+    "sentence": "A group of living things and their environment is called [MASK] ",
+    "answer": "ecosystem",
+    "distractors": [
+      "community",
+      "population",
+      "biome"
+    ],
+    "generated_distractors": [
+      "organisms",
+      "ecosystem",
+      "assemblage",
+      "species",
+      "habitat",
+      "organism",
+      "vegetation",
+      "fauna",
+      "animal",
+      "ecology"
+    ]
+  },
+  {
+    "sentence": "Binary fission is an example of [MASK] type of production ",
+    "answer": "asexual",
+    "distractors": [
+      "primitive",
+      "algal",
+      "sexual"
+    ],
+    "generated_distractors": [
+      "sexual",
+      "asexual",
+      "sex",
+      "heterosexual",
+      "reproductive",
+      "asymmetric",
+      "atypical",
+      "homosexual",
+      "biological",
+      "humanistic"
+    ]
+  },
+  {
+    "sentence": "Preserved remains or traces of organisms that lived in the past are known as [MASK] ",
+    "answer": "fossils",
+    "distractors": [
+      "archives",
+      "deposits",
+      "skulls"
+    ],
+    "generated_distractors": [
+      "fossils",
+      "fragments",
+      "remnants",
+      "organisms",
+      "sediments",
+      "ruins",
+      "bones",
+      "remains",
+      "traces",
+      "insects"
+    ]
+  },
+  {
+    "sentence": "Radar maps of venus show that it has mountains , canyons and volcanoes surrounded by plains of [MASK] ",
+    "answer": "lava",
+    "distractors": [
+      "helium",
+      "grasses",
+      "water"
+    ],
+    "generated_distractors": [
+      "lava",
+      "glaciers",
+      "ice",
+      "mud",
+      "soil",
+      "rock",
+      "gravel",
+      "sediments",
+      "rocks",
+      "limestone"
+    ]
+  },
+  {
+    "sentence": "The lungs are a series of ever-narrowing tubes that end in a myriad of tiny sacs called [MASK] ",
+    "answer": "alveoli",
+    "distractors": [
+      "brachii",
+      "testes",
+      "glands"
+    ],
+    "generated_distractors": [
+      "vacuoles",
+      "spleen",
+      "arteries",
+      "ovaries",
+      "alveoli",
+      "capillaries",
+      "lungs",
+      "adenoids",
+      "vacuole",
+      "veins"
+    ]
+  },
+  {
+    "sentence": "Fish and other aquatic organisms use gills to capture dissolved [MASK] ",
+    "answer": "oxygen",
+    "distractors": [
+      "food",
+      "sulfur",
+      "nitrogen"
+    ],
+    "generated_distractors": [
+      "water",
+      "nitrogen",
+      "carbon",
+      "calcium",
+      "hydrogen",
+      "oxygen",
+      "potassium",
+      "chloride",
+      "ions",
+      "nutrients"
+    ]
+  },
+  {
+    "sentence": "[MASK] does not have a definite starting point",
+    "answer": "adulthood",
+    "distractors": [
+      "adolescence",
+      "death",
+      "childhood"
+    ],
+    "generated_distractors": [
+      "childhood",
+      "youth",
+      "childhood",
+      "birth",
+      "childbirth",
+      "college",
+      "school",
+      "maturity",
+      "teen",
+      "schooling"
+    ]
+  },
+  {
+    "sentence": "[MASK] are responsible for pumping blood out of the heart",
+    "answer": "ventricles",
+    "distractors": [
+      "vacuoles",
+      "cells",
+      "valves"
+    ],
+    "generated_distractors": [
+      "lungs",
+      "arteries",
+      "ventricles",
+      "vacuoles",
+      "pancreas",
+      "ribs",
+      "veins",
+      "ovaries",
+      "ribcages",
+      "ribcage"
+    ]
+  },
+  {
+    "sentence": "the term for the period during which women 's ovaries stop producing eggs is [MASK]",
+    "answer": "menopause",
+    "distractors": [
+      "puberty",
+      "maturity",
+      "adolescence"
+    ],
+    "generated_distractors": [
+      "menopause",
+      "menstruation",
+      "ovulation",
+      "endometria",
+      "genitals",
+      "hibernation",
+      "sperm",
+      "alopecia",
+      "menstrual",
+      "endometrium"
+    ]
+  },
+  {
+    "sentence": "the closest living relations are [MASK] to land plants",
+    "answer": "charophytes",
+    "distractors": [
+      "mammals",
+      "arthropods",
+      "sporozoans"
+    ],
+    "generated_distractors": [
+      "sporozoans",
+      "phylums",
+      "protazoa",
+      "parasites",
+      "reptiles",
+      "fungi",
+      "chlorophytes",
+      "protazoans",
+      "phytes",
+      "chlorophyll"
+    ]
+  },
+  {
+    "sentence": "it is called [MASK] when the chance that a certain event will occur",
+    "answer": "probability",
+    "distractors": [
+      "mutation",
+      "difficulty",
+      "procession"
+    ],
+    "generated_distractors": [
+      "probability",
+      "probabilities",
+      "likelihood",
+      "chance",
+      "probability",
+      "occurrence",
+      "variance",
+      "correlation",
+      "momentum",
+      "uncertainty"
+    ]
+  },
+  {
+    "sentence": "the hardest of all minerals is [MASK]",
+    "answer": "diamonds",
+    "distractors": [
+      "titanium",
+      "gold",
+      "platinum"
+    ],
+    "generated_distractors": [
+      "gold",
+      "diamonds",
+      "quartz",
+      "metals",
+      "coals",
+      "minerals",
+      "copper",
+      "silver",
+      "coal",
+      "rocks"
+    ]
+  },
+  {
+    "sentence": "Use of oil-consuming bacteria to clean up an oil spill is an example of [MASK] ",
+    "answer": "bioremediation",
+    "distractors": [
+      "generation",
+      "coagulation",
+      "biodegradation"
+    ],
+    "generated_distractors": [
+      "disinfection",
+      "remediation",
+      "decontamination",
+      "sterilization",
+      "contamination",
+      "germination",
+      "contaminant",
+      "filtration",
+      "removal",
+      "cleaning"
+    ]
+  },
+  {
+    "sentence": "the process is called in which living things produce offspring [MASK]",
+    "answer": "reproduction",
+    "distractors": [
+      "variation",
+      "photosynthesis",
+      "diversification"
+    ],
+    "generated_distractors": [
+      "reproduction",
+      "germination",
+      "pollination",
+      "fertilization",
+      "decomposition",
+      "pollenation",
+      "extinction",
+      "migration",
+      "differentiation",
+      "death"
+    ]
+  },
+  {
+    "sentence": "The outer surface of the heart changes from positive to negative during [MASK] ",
+    "answer": "depolarization",
+    "distractors": [
+      "inflammation",
+      "permeability",
+      "reproduction"
+    ],
+    "generated_distractors": [
+      "arousal",
+      "evaporation",
+      "depolarization",
+      "polarization",
+      "hibernation",
+      "repression",
+      "entrainment",
+      "decomposition",
+      "enlargement",
+      "hypertension"
+    ]
+  },
+  {
+    "sentence": "the closest relatives to modern angiosperms are [MASK]",
+    "answer": "gnetophytes",
+    "distractors": [
+      "staurikosaurus",
+      "mitochondria",
+      "sporozoans"
+    ],
+    "generated_distractors": [
+      "angiosperms",
+      "symbiotics",
+      "neophytes",
+      "sporozoans",
+      "zygotes",
+      "osmosis",
+      "axons",
+      "neoplasms",
+      "symbiotes",
+      "chlorophytes"
+    ]
+  },
+  {
+    "sentence": "the only known planet with large amounts of water is [MASK]",
+    "answer": "earth",
+    "distractors": [
+      "saturn",
+      "jupiter",
+      "mars"
+    ],
+    "generated_distractors": [
+      "moon",
+      "planet earth",
+      "earth",
+      "planets",
+      "ice",
+      "ocean",
+      "planet",
+      "Mars",
+      "sun",
+      "planeta"
+    ]
+  },
+  {
+    "sentence": "the disease in which bones lose mass and become more fragile and likely to break is [MASK]",
+    "answer": "osteoporosis",
+    "distractors": [
+      "arthritis",
+      "tuberculosis",
+      "fibrosis"
+    ],
+    "generated_distractors": [
+      "osteoporosis",
+      "osteoarthritis",
+      "hepatitis",
+      "fibrosis",
+      "alopecia",
+      "chondritis",
+      "chondrion",
+      "osteoclasts",
+      "osteopenia",
+      "malnutrition"
+    ]
+  },
+  {
+    "sentence": "a purely physical process that does not change the chemical nature of the food is [MASK]",
+    "answer": "mechanical",
+    "distractors": [
+      "slow",
+      "simple",
+      "electromagnetic"
+    ],
+    "generated_distractors": [
+      "chemical",
+      "electrical",
+      "mechanical",
+      "electrolysis",
+      "kinetic",
+      "vibrational",
+      "biological",
+      "electromagnetic",
+      "physical",
+      "vapor"
+    ]
+  },
+  {
+    "sentence": "[MASK] are used to balance chemical equations",
+    "answer": "coefficients",
+    "distractors": [
+      "velocities",
+      "densities",
+      "fractions"
+    ],
+    "generated_distractors": [
+      "indices",
+      "coefficients",
+      "formulas",
+      "equations",
+      "axes",
+      "ratios",
+      "kinetics",
+      "variables",
+      "values",
+      "parameters"
+    ]
+  },
+  {
+    "sentence": "Physical features on the earth 's surface are known as [MASK]",
+    "answer": "landforms",
+    "distractors": [
+      "atmospheres",
+      "diversity",
+      "biospheres"
+    ],
+    "generated_distractors": [
+      "contours",
+      "glaciers",
+      "crusts",
+      "geologic",
+      "structures",
+      "rocks",
+      "geological",
+      "vegetation",
+      "clouds",
+      "erosion"
+    ]
+  },
+  {
+    "sentence": "In sexual reproduction , [MASK] is the name of the gamete cell the male must contribute ",
+    "answer": "sperm",
+    "distractors": [
+      "plasma",
+      "spore",
+      "ova"
+    ],
+    "generated_distractors": [
+      "embryos",
+      "eggs",
+      "blood",
+      "egg",
+      "hormones",
+      "saliva",
+      "embryo",
+      "DNA",
+      "stem",
+      "urine"
+    ]
+  }
+]
